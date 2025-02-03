@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -24,6 +24,16 @@ public class ActiveWeapon : Singleton<ActiveWeapon>
 
     private void Start()
     {
+        //playerControls.Combat.Attack.started += _ => StartAttacking();
+        //playerControls.Combat.Attack.canceled += _ => StopAttacking();
+        // Tìm kiếm GameObject có script Sword và gán vào currentActiveWeapon
+        currentActiveWeapon = FindObjectOfType<Sword>();
+
+        if (currentActiveWeapon == null)
+        {
+            Debug.LogError("Không tìm thấy vũ khí nào trong game! Hãy kiểm tra lại.");
+        }
+
         playerControls.Combat.Attack.started += _ => StartAttacking();
         playerControls.Combat.Attack.canceled += _ => StopAttacking();
     }
@@ -53,7 +63,21 @@ public class ActiveWeapon : Singleton<ActiveWeapon>
         if (attackButtonDown && !isAttacking)
         {
             isAttacking = true;
-            (currentActiveWeapon as IWeapon).Attack();
+            if (currentActiveWeapon == null)
+            {
+                Debug.LogError("currentActiveWeapon chưa được gán!");
+                return;
+            }
+
+            IWeapon weapon = currentActiveWeapon as IWeapon;
+            if (weapon != null)
+            {
+                weapon.Attack();
+            }
+            else
+            {
+                Debug.LogError("currentActiveWeapon không implement IWeapon!");
+            }
         }
     }
 }
