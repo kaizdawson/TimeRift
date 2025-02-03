@@ -18,7 +18,8 @@ AnimationClip:
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
     - time: 0
       value: {fileID: -9097960824269527960, guid: 174243b392fc9434da9c9dc58fe5f711, type: 3}
     - time: 0.15
@@ -31,6 +32,7 @@ AnimationClip:
     path: 
     classID: 212
     script: {fileID: 0}
+    flags: 2
   m_SampleRate: 60
   m_WrapMode: 2
   m_Bounds:
@@ -45,6 +47,8 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping:
     - {fileID: -9097960824269527960, guid: 174243b392fc9434da9c9dc58fe5f711, type: 3}
     - {fileID: -875527150898058026, guid: 174243b392fc9434da9c9dc58fe5f711, type: 3}
