@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6428908ff82a1aa43a80f3b77b55d8e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248970
+  packageName: Fantasy Lands Warrior
+  packageVersion: 1.0
+  assetPath: Assets/FL_Warrior/Anim/dagger_attack_right.anim
+  uploadId: 568222
