@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class ActiveWeapon : Singleton<ActiveWeapon>
 {
-    [SerializeField] private MonoBehaviour currentActiveWeapon;
+    public MonoBehaviour CurrentActiveWeapon { get; private set; }
 
     private PlayerControls playerControls;
+    private float timeBetweenAttacks;
 
     private bool attackButtonDown, isAttacking = false;
 
@@ -24,18 +25,10 @@ public class ActiveWeapon : Singleton<ActiveWeapon>
 
     private void Start()
     {
-        //playerControls.Combat.Attack.started += _ => StartAttacking();
-        //playerControls.Combat.Attack.canceled += _ => StopAttacking();
-        // Tìm kiếm GameObject có script Sword và gán vào currentActiveWeapon
-        currentActiveWeapon = FindObjectOfType<Sword>();
-
-        if (currentActiveWeapon == null)
-        {
-            Debug.LogError("Không tìm thấy vũ khí nào trong game! Hãy kiểm tra lại.");
-        }
-
         playerControls.Combat.Attack.started += _ => StartAttacking();
         playerControls.Combat.Attack.canceled += _ => StopAttacking();
+
+        AttackCooldown();
     }
 
     private void Update()
@@ -43,9 +36,34 @@ public class ActiveWeapon : Singleton<ActiveWeapon>
         Attack();
     }
 
-    public void ToggleIsAttacking(bool value)
+/*    public void ToggleIsAttacking(bool value)
     {
         isAttacking = value;
+    }*/
+    public void NewWeapon(MonoBehaviour newWeapon)
+    {
+        CurrentActiveWeapon = newWeapon;
+
+        AttackCooldown();
+        timeBetweenAttacks = (CurrentActiveWeapon as IWeapon).GetWeaponInfo().weaponCooldown;
+    }
+
+    public void WeaponNull()
+    {
+        CurrentActiveWeapon = null;
+    }
+
+    private void AttackCooldown()
+    {
+        isAttacking = true;
+        StopAllCoroutines();
+        StartCoroutine(TimeBetweenAttacksRoutine());
+    }
+
+    private IEnumerator TimeBetweenAttacksRoutine()
+    {
+        yield return new WaitForSeconds(timeBetweenAttacks);
+        isAttacking = false;
     }
 
     private void StartAttacking()
@@ -60,26 +78,10 @@ public class ActiveWeapon : Singleton<ActiveWeapon>
 
     private void Attack()
     {
-        if (attackButtonDown && !isAttacking)
+        if (attackButtonDown && !isAttacking && CurrentActiveWeapon)
         {
-            isAttacking = true;
-            if (currentActiveWeapon == null)
-            {
-                Debug.LogError("currentActiveWeapon chưa được gán!");
-                return;
-            }
-
-            IWeapon weapon = currentActiveWeapon as IWeapon;
-            if (weapon != null)
-            {
-                weapon.Attack();
-            }
-            else
-            {
-                Debug.LogError("currentActiveWeapon không implement IWeapon!");
-            }
+            AttackCooldown();
+            (CurrentActiveWeapon as IWeapon).Attack();
         }
     }
 }
-
-

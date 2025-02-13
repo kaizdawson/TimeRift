@@ -1,10 +1,11 @@
-using UnityEngine;
+/*using UnityEngine;
 
-public class Lasergun : MonoBehaviour
+public class Shotgun : MonoBehaviour
 {
     public void Attack()
     {
-        Debug.Log("Lasergun Attack");
+        Debug.Log("Shotgun Attack");
         ActiveWeapon.Instance.ToggleIsAttacking(false);
     }
 }
+*/

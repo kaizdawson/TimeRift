@@ -4,7 +4,7 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     [SerializeField] private float roamChangeDirFloat = 2f;
-    [SerializeField] private float chaseSpeed = 3f;
+    //[SerializeField] private float chaseSpeed = 3f;
     [SerializeField] private float detectRange = 5f;
     [SerializeField] private float attackRange = 1f;
     [SerializeField] private float attackCooldown = 1f;
@@ -40,19 +40,52 @@ public class EnemyMovement : MonoBehaviour
         animator.SetBool("isMoving", true);  // ✅ Bật animation di chuyển ngay từ đầu
     }
 
+    //private void Update()
+    //{
+    //    if (player == null) return;
+
+    //    float distanceToPlayer = Vector2.Distance(transform.position, player.position);
+
+    //    Debug.Log($"Enemy State: {state}, Distance to Player: {distanceToPlayer}");
+
+    //    if (distanceToPlayer < attackRange && canAttack)
+    //    {
+    //        if (state != State.Attacking)
+    //        {
+    //            Debug.Log("Switching to ATTACK state");
+    //            SwitchState(State.Attacking);
+    //        }
+    //    }
+    //    else if (distanceToPlayer < detectRange)
+    //    {
+    //        if (state != State.Chasing)
+    //        {
+    //            Debug.Log("Switching to CHASING state");
+    //            SwitchState(State.Chasing);
+    //        }
+    //    }
+    //    else
+    //    {
+    //        if (state != State.Roaming)
+    //        {
+    //            Debug.Log("Switching to ROAMING state");
+    //            SwitchState(State.Roaming);
+    //        }
+    //    }
+    //}
+
+    private State lastState; // Lưu trạng thái trước đó
+
     private void Update()
     {
         if (player == null) return;
 
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
 
-        Debug.Log($"Enemy State: {state}, Distance to Player: {distanceToPlayer}");
-
         if (distanceToPlayer < attackRange && canAttack)
         {
             if (state != State.Attacking)
             {
-                Debug.Log("Switching to ATTACK state");
                 SwitchState(State.Attacking);
             }
         }
@@ -60,7 +93,6 @@ public class EnemyMovement : MonoBehaviour
         {
             if (state != State.Chasing)
             {
-                Debug.Log("Switching to CHASING state");
                 SwitchState(State.Chasing);
             }
         }
@@ -68,12 +100,17 @@ public class EnemyMovement : MonoBehaviour
         {
             if (state != State.Roaming)
             {
-                Debug.Log("Switching to ROAMING state");
                 SwitchState(State.Roaming);
             }
         }
-    }
 
+        // Chỉ in log khi trạng thái thay đổi
+        if (state != lastState)
+        {
+            Debug.Log($"Enemy State: {state}, Distance to Player: {distanceToPlayer}");
+            lastState = state; // Cập nhật trạng thái mới
+        }
+    }
 
     private void SwitchState(State newState)
     {

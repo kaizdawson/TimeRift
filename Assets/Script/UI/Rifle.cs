@@ -1,10 +1,11 @@
-using UnityEngine;
+/*using UnityEngine;
 
-public class Shotgun : MonoBehaviour
+public class Rilft : MonoBehaviour
 {
     public void Attack()
     {
-        Debug.Log("Shotgun Attack");
+        Debug.Log("Rilft Attack");
         ActiveWeapon.Instance.ToggleIsAttacking(false);
     }
 }
+*/
