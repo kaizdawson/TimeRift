@@ -17,26 +17,36 @@ public class TransparentDetection : MonoBehaviour
         tilemap = GetComponent<Tilemap>();
     }
 
-    private void OnTriggerEnter2D(Collider2D other) {
-        if (other.gameObject.GetComponent<PlayerController>()) {
-            if (spriteRenderer) {
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.GetComponent<PlayerController>())
+        {
+            if (spriteRenderer && gameObject.activeInHierarchy)
+            {
                 StartCoroutine(FadeRoutine(spriteRenderer, fadeTime, spriteRenderer.color.a, transparencyAmount));
-            } else if (tilemap) {
+            }
+            else if (tilemap && gameObject.activeInHierarchy)
+            {
                 StartCoroutine(FadeRoutine(tilemap, fadeTime, tilemap.color.a, transparencyAmount));
             }
         }
     }
 
-    private void OnTriggerExit2D(Collider2D other) {
+    private void OnTriggerExit2D(Collider2D other)
+    {
         if (other.gameObject.GetComponent<PlayerController>())
         {
-            if (spriteRenderer) {
+            if (spriteRenderer && gameObject.activeInHierarchy)
+            {
                 StartCoroutine(FadeRoutine(spriteRenderer, fadeTime, spriteRenderer.color.a, 1f));
-            } else if (tilemap) {
+            }
+            else if (tilemap && gameObject.activeInHierarchy)
+            {
                 StartCoroutine(FadeRoutine(tilemap, fadeTime, tilemap.color.a, 1f));
             }
         }
     }
+
 
     private IEnumerator FadeRoutine(SpriteRenderer spriteRenderer, float fadeTime, float startValue, float targetTransparency) {
         float elapsedTime = 0;     
