@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wounded Knight_0: 4462175508996979672
+      Wounded Knight_1: 2431490544779632941
+      Wounded Knight_2: -7667907255141922970
+      Wounded Knight_3: -1922154139802398504
+      Wounded Knight_4: 1496910158601099275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

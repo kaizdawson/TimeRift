@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black Market Dealer_0: 7444224002052565468
+      Black Market Dealer_1: -2738810774508699031
+      Black Market Dealer_2: -1267278187273473764
+      Black Market Dealer_3: -6788587581762170355
+      Black Market Dealer_4: -1063323833377209030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

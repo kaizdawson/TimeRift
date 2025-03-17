@@ -10,11 +10,9 @@ public class EnemyPathfinding : MonoBehaviour
     private Vector2 moveDir;
     private Knockback knockback;
     private Animator animator;
-    private SpriteRenderer spriteRenderer;
-
+        
     private void Awake()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
         knockback = GetComponent<Knockback>();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();

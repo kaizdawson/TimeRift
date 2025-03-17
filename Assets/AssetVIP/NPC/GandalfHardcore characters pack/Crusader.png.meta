@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crusader_0: -1088334184919135095
+      Crusader_1: 2508208714530308078
+      Crusader_2: 3762093428154348103
+      Crusader_3: -1285676017158960930
+      Crusader_4: -2367235091433666507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -25,6 +25,11 @@ public class Projectile : MonoBehaviour
     public void UpdateProjectileRange(float projectileRange)
     {
         this.projectileRange = projectileRange;
+    }
+
+    public void UpdateMoveSpeed(float moveSpeed)
+    {
+        this.moveSpeed = moveSpeed;
     }
 
     private void OnTriggerEnter2D(Collider2D other)

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toad_0: -9175439324669883218
+      Toad_1: 1375329206953444646
+      Toad_10: -3421488455177718567
+      Toad_11: -631421606513757489
+      Toad_2: 6816787498108219724
+      Toad_3: 1273809553019645762
+      Toad_4: -47474882850051921
+      Toad_5: 6171354962483757765
+      Toad_6: 6248030859975834997
+      Toad_7: 4969883264180402086
+      Toad_8: -6841732283488138391
+      Toad_9: -2094072319484023166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

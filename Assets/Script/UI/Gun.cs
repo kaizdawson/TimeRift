@@ -25,7 +25,11 @@ public class Gun : MonoBehaviour, IWeapon
         GameObject newBullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, ActiveWeapon.Instance.transform.rotation);
         newBullet.GetComponent<Projectile>().UpdateProjectileRange(weaponInfo.weaponRange);  
     }
-
+    public WeaponInfo GetWeaponInfo()
+    {
+        return weaponInfo;
+    }
+     
     private void MouseFollowWithOffset()
     {
         Vector3 mousePos = Input.mousePosition;
@@ -40,8 +44,5 @@ public class Gun : MonoBehaviour, IWeapon
         ActiveWeapon.Instance.transform.localScale = weaponScale;
     }
 
-    public WeaponInfo GetWeaponInfo()
-    {
-        return weaponInfo;
-    }
+
 }

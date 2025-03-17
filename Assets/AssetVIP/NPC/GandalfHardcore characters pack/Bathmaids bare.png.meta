@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bathmaids bare_0: 2149811661758259400
+      Bathmaids bare_1: -2455267253864189863
+      Bathmaids bare_10: 8631772132663616389
+      Bathmaids bare_11: 7455824323431044043
+      Bathmaids bare_12: -5528048412531517271
+      Bathmaids bare_13: -4718812424810181898
+      Bathmaids bare_14: -8722553252165935432
+      Bathmaids bare_15: 4203912801279579702
+      Bathmaids bare_16: 3178946729895959550
+      Bathmaids bare_17: -1581116556920949255
+      Bathmaids bare_18: -7487267009470659985
+      Bathmaids bare_19: -351585265338531474
+      Bathmaids bare_2: 6759517244836027261
+      Bathmaids bare_3: 7124005235704390097
+      Bathmaids bare_4: 1536887825721080626
+      Bathmaids bare_5: 3232304907295512709
+      Bathmaids bare_6: 3980185204755743450
+      Bathmaids bare_7: -5801686854692908235
+      Bathmaids bare_8: -8245470639401649628
+      Bathmaids bare_9: -5175556000079961453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

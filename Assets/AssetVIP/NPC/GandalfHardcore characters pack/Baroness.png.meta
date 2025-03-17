@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Baroness_0: 50085749309011655
+      Baroness_1: 4921349267274747458
+      Baroness_10: 2493036437698391294
+      Baroness_11: -6892964393000810892
+      Baroness_12: -5949609251222736217
+      Baroness_2: 3021926357711049719
+      Baroness_3: -2744658549562786741
+      Baroness_4: -1860012591127166007
+      Baroness_5: -6731846528103371192
+      Baroness_6: 5116326347909796407
+      Baroness_7: -152960351446818093
+      Baroness_8: 7672891803165897989
+      Baroness_9: 8348862576131189663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

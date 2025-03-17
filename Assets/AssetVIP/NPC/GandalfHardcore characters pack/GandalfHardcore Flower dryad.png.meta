@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GandalfHardcore Flower dryad_0: -2726002864809673320
+      GandalfHardcore Flower dryad_1: -2694382964149572659
+      GandalfHardcore Flower dryad_2: 2463422766392524402
+      GandalfHardcore Flower dryad_3: -4626309286868830803
+      GandalfHardcore Flower dryad_4: 5886238968839388622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

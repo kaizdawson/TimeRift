@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GandalfHardcore Dryad sheet_0: 4332827240859937181
+      GandalfHardcore Dryad sheet_1: 8532033304288840000
+      GandalfHardcore Dryad sheet_10: -8390111926008177988
+      GandalfHardcore Dryad sheet_11: -7202322722816199297
+      GandalfHardcore Dryad sheet_12: -2000738942834426189
+      GandalfHardcore Dryad sheet_13: -4065878493359612346
+      GandalfHardcore Dryad sheet_14: 6826018296441267061
+      GandalfHardcore Dryad sheet_2: 8761946164697540895
+      GandalfHardcore Dryad sheet_3: -6212104138405170130
+      GandalfHardcore Dryad sheet_4: 410615585869121166
+      GandalfHardcore Dryad sheet_5: 6961448674788024850
+      GandalfHardcore Dryad sheet_6: 7659033932502206181
+      GandalfHardcore Dryad sheet_7: 3060195669725060106
+      GandalfHardcore Dryad sheet_8: -4741809142065803517
+      GandalfHardcore Dryad sheet_9: -900853332627067929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

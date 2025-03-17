@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GandalfHardcore Eve sheet_0: 8982050573278549702
+      GandalfHardcore Eve sheet_1: -8396807136971459442
+      GandalfHardcore Eve sheet_10: 7391271401271217156
+      GandalfHardcore Eve sheet_11: 2858115094531590355
+      GandalfHardcore Eve sheet_12: -5592964235228856725
+      GandalfHardcore Eve sheet_13: -1442569516713434538
+      GandalfHardcore Eve sheet_14: -52994205191484007
+      GandalfHardcore Eve sheet_2: -8866964620837966939
+      GandalfHardcore Eve sheet_3: -2995324509265472413
+      GandalfHardcore Eve sheet_4: 1979850197437166949
+      GandalfHardcore Eve sheet_5: -8283515107115045099
+      GandalfHardcore Eve sheet_6: 1177241943108719651
+      GandalfHardcore Eve sheet_7: 7269024375904276237
+      GandalfHardcore Eve sheet_8: 8757619611334230478
+      GandalfHardcore Eve sheet_9: -8507708084028452851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

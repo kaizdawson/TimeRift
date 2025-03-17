@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Christmas lady_0: 7989214285773298681
+      Christmas lady_1: 7956631798915329882
+      Christmas lady_2: -3846425258370460678
+      Christmas lady_3: -5089269309046803443
+      Christmas lady_4: 7595884526741654916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
