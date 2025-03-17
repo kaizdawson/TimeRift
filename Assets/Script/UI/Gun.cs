@@ -23,7 +23,7 @@ public class Gun : MonoBehaviour, IWeapon
     {
         myAnimator.SetTrigger(FIRE_HASH);
         GameObject newBullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, ActiveWeapon.Instance.transform.rotation);
-        newBullet.GetComponent<Projectile>().UpdateWeaponInfo(weaponInfo);  
+        newBullet.GetComponent<Projectile>().UpdateProjectileRange(weaponInfo.weaponRange);  
     }
 
     private void MouseFollowWithOffset()
