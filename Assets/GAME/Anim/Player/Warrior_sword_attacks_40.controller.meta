@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01e39de2f858d9740aeb1dcece9adbe1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248970
+  packageName: Fantasy Lands Warrior
+  packageVersion: 1.0
+  assetPath: Assets/FL_Warrior/Anim/Warrior_sword_attacks_40.controller
+  uploadId: 568222

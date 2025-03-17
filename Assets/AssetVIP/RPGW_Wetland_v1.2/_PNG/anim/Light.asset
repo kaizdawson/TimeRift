@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Light
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1559335178, guid: 7d813e7aac25422499e3cb3f06705cb7, type: 3}
+  - {fileID: -1467522069, guid: 7d813e7aac25422499e3cb3f06705cb7, type: 3}
+  - {fileID: -1353781600, guid: 7d813e7aac25422499e3cb3f06705cb7, type: 3}
+  - {fileID: 1337138157, guid: 7d813e7aac25422499e3cb3f06705cb7, type: 3}
+  - {fileID: -1192382882, guid: 7d813e7aac25422499e3cb3f06705cb7, type: 3}
+  - {fileID: 234221616, guid: 7d813e7aac25422499e3cb3f06705cb7, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 16
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

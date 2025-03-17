@@ -1,0 +1,3492 @@
+fileFormatVersion: 2
+guid: d10b1f5fc368b6b4e97d06c04480f214
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3858422507346677763
+    second: GandalfHardcore characters sheet 5_0
+  - first:
+      213: -4381518099966091782
+    second: GandalfHardcore characters sheet 5_1
+  - first:
+      213: 2774445045166734045
+    second: GandalfHardcore characters sheet 5_2
+  - first:
+      213: -2360312394512193555
+    second: GandalfHardcore characters sheet 5_3
+  - first:
+      213: -4947269561587090844
+    second: GandalfHardcore characters sheet 5_4
+  - first:
+      213: -1902260082791211883
+    second: GandalfHardcore characters sheet 5_5
+  - first:
+      213: 1107309438684434128
+    second: GandalfHardcore characters sheet 5_6
+  - first:
+      213: 224950499474478778
+    second: GandalfHardcore characters sheet 5_7
+  - first:
+      213: 1765973478643348362
+    second: GandalfHardcore characters sheet 5_8
+  - first:
+      213: 6198509975491558568
+    second: GandalfHardcore characters sheet 5_9
+  - first:
+      213: -3853551389529651979
+    second: GandalfHardcore characters sheet 5_10
+  - first:
+      213: -1273620240705823425
+    second: GandalfHardcore characters sheet 5_11
+  - first:
+      213: -8944000913011343806
+    second: GandalfHardcore characters sheet 5_12
+  - first:
+      213: 2004253734382048827
+    second: GandalfHardcore characters sheet 5_13
+  - first:
+      213: 426794839468546257
+    second: GandalfHardcore characters sheet 5_14
+  - first:
+      213: -1798065537280193903
+    second: GandalfHardcore characters sheet 5_15
+  - first:
+      213: 790491025915324841
+    second: GandalfHardcore characters sheet 5_16
+  - first:
+      213: 300170166457244452
+    second: GandalfHardcore characters sheet 5_17
+  - first:
+      213: -1493027254219251131
+    second: GandalfHardcore characters sheet 5_18
+  - first:
+      213: -2866555682157461485
+    second: GandalfHardcore characters sheet 5_19
+  - first:
+      213: 2987521509928365628
+    second: GandalfHardcore characters sheet 5_20
+  - first:
+      213: -9194668768992056348
+    second: GandalfHardcore characters sheet 5_21
+  - first:
+      213: 8520670269147982719
+    second: GandalfHardcore characters sheet 5_22
+  - first:
+      213: -7355037865901939298
+    second: GandalfHardcore characters sheet 5_23
+  - first:
+      213: 5348983731769727333
+    second: GandalfHardcore characters sheet 5_24
+  - first:
+      213: -1887065884290260064
+    second: GandalfHardcore characters sheet 5_25
+  - first:
+      213: -6988127342632402601
+    second: GandalfHardcore characters sheet 5_26
+  - first:
+      213: -2688232532798756241
+    second: GandalfHardcore characters sheet 5_27
+  - first:
+      213: 8667118686043006441
+    second: GandalfHardcore characters sheet 5_28
+  - first:
+      213: -5938302064761996323
+    second: GandalfHardcore characters sheet 5_29
+  - first:
+      213: -3732725411126213300
+    second: GandalfHardcore characters sheet 5_30
+  - first:
+      213: 7515841905272270910
+    second: GandalfHardcore characters sheet 5_31
+  - first:
+      213: -3657729787944020593
+    second: GandalfHardcore characters sheet 5_32
+  - first:
+      213: -6693938382155772589
+    second: GandalfHardcore characters sheet 5_33
+  - first:
+      213: 4376062431699052198
+    second: GandalfHardcore characters sheet 5_34
+  - first:
+      213: -3687092881601724268
+    second: GandalfHardcore characters sheet 5_35
+  - first:
+      213: 3459521578525093430
+    second: GandalfHardcore characters sheet 5_36
+  - first:
+      213: -1408758575375518126
+    second: GandalfHardcore characters sheet 5_37
+  - first:
+      213: -345301708098323891
+    second: GandalfHardcore characters sheet 5_38
+  - first:
+      213: -846210573723499537
+    second: GandalfHardcore characters sheet 5_39
+  - first:
+      213: 258703333640068185
+    second: GandalfHardcore characters sheet 5_40
+  - first:
+      213: -2111067598687465489
+    second: GandalfHardcore characters sheet 5_41
+  - first:
+      213: 3868736903184039597
+    second: GandalfHardcore characters sheet 5_42
+  - first:
+      213: -1248429446854924108
+    second: GandalfHardcore characters sheet 5_43
+  - first:
+      213: 3135080927155680421
+    second: GandalfHardcore characters sheet 5_44
+  - first:
+      213: -3505125490719302178
+    second: GandalfHardcore characters sheet 5_45
+  - first:
+      213: 2029358315614644230
+    second: GandalfHardcore characters sheet 5_46
+  - first:
+      213: -8015264044479013997
+    second: GandalfHardcore characters sheet 5_47
+  - first:
+      213: -3140620544923997254
+    second: GandalfHardcore characters sheet 5_48
+  - first:
+      213: 8533809998106580836
+    second: GandalfHardcore characters sheet 5_49
+  - first:
+      213: -8134036101222968349
+    second: GandalfHardcore characters sheet 5_50
+  - first:
+      213: 7611131723285335734
+    second: GandalfHardcore characters sheet 5_51
+  - first:
+      213: -6187024835838108121
+    second: GandalfHardcore characters sheet 5_52
+  - first:
+      213: -663901160981154309
+    second: GandalfHardcore characters sheet 5_53
+  - first:
+      213: 7859112961731097577
+    second: GandalfHardcore characters sheet 5_54
+  - first:
+      213: 3304170940266931396
+    second: GandalfHardcore characters sheet 5_55
+  - first:
+      213: -3957762336445231572
+    second: GandalfHardcore characters sheet 5_56
+  - first:
+      213: 4168293674370047231
+    second: GandalfHardcore characters sheet 5_57
+  - first:
+      213: -3291895021033355947
+    second: GandalfHardcore characters sheet 5_58
+  - first:
+      213: -5670488312040267715
+    second: GandalfHardcore characters sheet 5_59
+  - first:
+      213: 3799305223500538153
+    second: GandalfHardcore characters sheet 5_60
+  - first:
+      213: -3250030795747366225
+    second: GandalfHardcore characters sheet 5_61
+  - first:
+      213: -8913400311240810793
+    second: GandalfHardcore characters sheet 5_62
+  - first:
+      213: -3871014925931118721
+    second: GandalfHardcore characters sheet 5_63
+  - first:
+      213: 2555463606565065782
+    second: GandalfHardcore characters sheet 5_64
+  - first:
+      213: 7581240798293853598
+    second: GandalfHardcore characters sheet 5_65
+  - first:
+      213: -1786858361120714163
+    second: GandalfHardcore characters sheet 5_66
+  - first:
+      213: 8669468826775853163
+    second: GandalfHardcore characters sheet 5_67
+  - first:
+      213: 2660127785820340701
+    second: GandalfHardcore characters sheet 5_68
+  - first:
+      213: -8430503025799029469
+    second: GandalfHardcore characters sheet 5_69
+  - first:
+      213: 1105590042861502263
+    second: GandalfHardcore characters sheet 5_70
+  - first:
+      213: -5088372078887680096
+    second: GandalfHardcore characters sheet 5_71
+  - first:
+      213: -8119501746992900564
+    second: GandalfHardcore characters sheet 5_72
+  - first:
+      213: 1724181134712222243
+    second: GandalfHardcore characters sheet 5_73
+  - first:
+      213: -1303503061213130772
+    second: GandalfHardcore characters sheet 5_74
+  - first:
+      213: -4876423164440950668
+    second: GandalfHardcore characters sheet 5_75
+  - first:
+      213: 6887876910022314321
+    second: GandalfHardcore characters sheet 5_76
+  - first:
+      213: -3241931808519445
+    second: GandalfHardcore characters sheet 5_77
+  - first:
+      213: 200735451219118276
+    second: GandalfHardcore characters sheet 5_78
+  - first:
+      213: 4380516445072085331
+    second: GandalfHardcore characters sheet 5_79
+  - first:
+      213: -8480971979369585801
+    second: GandalfHardcore characters sheet 5_80
+  - first:
+      213: -7436424334190454013
+    second: GandalfHardcore characters sheet 5_81
+  - first:
+      213: -7316352234255602943
+    second: GandalfHardcore characters sheet 5_82
+  - first:
+      213: -331084491784359028
+    second: GandalfHardcore characters sheet 5_83
+  - first:
+      213: 2096429260930484552
+    second: GandalfHardcore characters sheet 5_84
+  - first:
+      213: -1775102657164460210
+    second: GandalfHardcore characters sheet 5_85
+  - first:
+      213: -5172754679299699578
+    second: GandalfHardcore characters sheet 5_86
+  - first:
+      213: -6410960960718044413
+    second: GandalfHardcore characters sheet 5_87
+  - first:
+      213: 4840490416344768681
+    second: GandalfHardcore characters sheet 5_88
+  - first:
+      213: -2989906379296574795
+    second: GandalfHardcore characters sheet 5_89
+  - first:
+      213: -2143493022378092393
+    second: GandalfHardcore characters sheet 5_90
+  - first:
+      213: 976728451634765607
+    second: GandalfHardcore characters sheet 5_91
+  - first:
+      213: -7869555425615352217
+    second: GandalfHardcore characters sheet 5_92
+  - first:
+      213: 129589778162649951
+    second: GandalfHardcore characters sheet 5_93
+  - first:
+      213: 2405996039960568452
+    second: GandalfHardcore characters sheet 5_94
+  - first:
+      213: -1240402116069709516
+    second: GandalfHardcore characters sheet 5_95
+  - first:
+      213: -8247284055518328651
+    second: GandalfHardcore characters sheet 5_96
+  - first:
+      213: 6542746879442969802
+    second: GandalfHardcore characters sheet 5_97
+  - first:
+      213: -1985334531755537982
+    second: GandalfHardcore characters sheet 5_98
+  - first:
+      213: -3457543213662726373
+    second: GandalfHardcore characters sheet 5_99
+  - first:
+      213: -5830716675296171186
+    second: GandalfHardcore characters sheet 5_100
+  - first:
+      213: 3165639937606625569
+    second: GandalfHardcore characters sheet 5_101
+  - first:
+      213: -4780954955341652377
+    second: GandalfHardcore characters sheet 5_102
+  - first:
+      213: -8596253010197451404
+    second: GandalfHardcore characters sheet 5_103
+  - first:
+      213: -4750910668263250611
+    second: GandalfHardcore characters sheet 5_104
+  - first:
+      213: -7553010731617901138
+    second: GandalfHardcore characters sheet 5_105
+  - first:
+      213: 1279179821034619318
+    second: GandalfHardcore characters sheet 5_106
+  - first:
+      213: 6489493984731960966
+    second: GandalfHardcore characters sheet 5_107
+  - first:
+      213: 1963659806404909337
+    second: GandalfHardcore characters sheet 5_108
+  - first:
+      213: -5406251758478506616
+    second: GandalfHardcore characters sheet 5_109
+  - first:
+      213: -7964840540069479000
+    second: GandalfHardcore characters sheet 5_110
+  - first:
+      213: -417093933983359805
+    second: GandalfHardcore characters sheet 5_111
+  - first:
+      213: -3283834970875121390
+    second: GandalfHardcore characters sheet 5_112
+  - first:
+      213: -4318414190565445801
+    second: GandalfHardcore characters sheet 5_113
+  - first:
+      213: 2188552363648711994
+    second: GandalfHardcore characters sheet 5_114
+  - first:
+      213: 3670686716398095101
+    second: GandalfHardcore characters sheet 5_115
+  - first:
+      213: 2756287231365196540
+    second: GandalfHardcore characters sheet 5_116
+  - first:
+      213: -4501627639308245418
+    second: GandalfHardcore characters sheet 5_117
+  - first:
+      213: -2569582442961123534
+    second: GandalfHardcore characters sheet 5_118
+  - first:
+      213: 5215969660722371970
+    second: GandalfHardcore characters sheet 5_119
+  - first:
+      213: -2113524068698885950
+    second: GandalfHardcore characters sheet 5_120
+  - first:
+      213: -3297256256202097689
+    second: GandalfHardcore characters sheet 5_121
+  - first:
+      213: 3189482047923032830
+    second: GandalfHardcore characters sheet 5_122
+  - first:
+      213: -2702833841061547080
+    second: GandalfHardcore characters sheet 5_123
+  - first:
+      213: -4561359884031538173
+    second: GandalfHardcore characters sheet 5_124
+  - first:
+      213: 2944736255391156767
+    second: GandalfHardcore characters sheet 5_125
+  - first:
+      213: -3840157852528851118
+    second: GandalfHardcore characters sheet 5_126
+  - first:
+      213: 1331592906575844550
+    second: GandalfHardcore characters sheet 5_127
+  - first:
+      213: 8404256089607006997
+    second: GandalfHardcore characters sheet 5_128
+  - first:
+      213: 4463248715478269092
+    second: GandalfHardcore characters sheet 5_129
+  - first:
+      213: -5172094614604100707
+    second: GandalfHardcore characters sheet 5_130
+  - first:
+      213: 238666015559931438
+    second: GandalfHardcore characters sheet 5_131
+  - first:
+      213: 2659575716186414338
+    second: GandalfHardcore characters sheet 5_132
+  - first:
+      213: 1437891389434440242
+    second: GandalfHardcore characters sheet 5_133
+  - first:
+      213: 1544703261034358518
+    second: GandalfHardcore characters sheet 5_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 831
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30055cfd3dedb8530800000000000000
+      internalID: 3858422507346677763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 831
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd939a9088b133c0800000000000000
+      internalID: -4381518099966091782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 831
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda7106a11fc08620800000000000000
+      internalID: 2774445045166734045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 831
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72626f16c7e3fd0800000000000000
+      internalID: -2360312394512193555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 831
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46abf75ab84c75bb0800000000000000
+      internalID: -4947269561587090844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 831
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c13d68880d995e0800000000000000
+      internalID: -1902260082791211883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 831
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de09355114fd5f00800000000000000
+      internalID: 1107309438684434128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 831
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61935994f2f1300800000000000000
+      internalID: 224950499474478778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 831
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a833c45b58ff18810800000000000000
+      internalID: 1765973478643348362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 831
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acb3e94bf7850650800000000000000
+      internalID: 6198509975491558568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 767
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f44f5f9d6f658ac0800000000000000
+      internalID: -3853551389529651979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 767
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d5bf59321335ee0800000000000000
+      internalID: -1273620240705823425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 767
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e70359e8680e380800000000000000
+      internalID: -8944000913011343806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 767
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b369795072a80db10800000000000000
+      internalID: 2004253734382048827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 767
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81e7e25a74ce500800000000000000
+      internalID: 426794839468546257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 767
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aca8f9becfb07e0800000000000000
+      internalID: -1798065537280193903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 767
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a921dd566368fa00800000000000000
+      internalID: 790491025915324841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 767
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b9adf0d2b6a2400800000000000000
+      internalID: 300170166457244452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_18
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 767
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542e8486f93b74be0800000000000000
+      internalID: -1493027254219251131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 767
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31080247bc2f738d0800000000000000
+      internalID: -2866555682157461485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 703
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6e161cfec57920800000000000000
+      internalID: 2987521509928365628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 703
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba9d45879f56080800000000000000
+      internalID: -9194668768992056348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 703
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2cc027708f3670800000000000000
+      internalID: 8520670269147982719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 703
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952e559708ade990800000000000000
+      internalID: -7355037865901939298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 703
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695a792d586b3a40800000000000000
+      internalID: 5348983731769727333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 703
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3ee1b839bcfc5e0800000000000000
+      internalID: -1887065884290260064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 703
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7518331e43f250f90800000000000000
+      internalID: -6988127342632402601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 703
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aa1e811ca71bad0800000000000000
+      internalID: -2688232532798756241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 703
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e56ebb468ac74870800000000000000
+      internalID: 8667118686043006441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 703
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb74ec0cb9e69da0800000000000000
+      internalID: -5938302064761996323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 639
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458fb1f302b23cc0800000000000000
+      internalID: -3732725411126213300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 639
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30bfb76462ad4860800000000000000
+      internalID: 7515841905272270910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 639
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f855b3923222d3dc0800000000000000
+      internalID: -3657729787944020593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 639
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d8047e18a5a13a0800000000000000
+      internalID: -6693938382155772589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 639
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6aa54a895eabc30800000000000000
+      internalID: 4376062431699052198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 639
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490024a2f80d4dcc0800000000000000
+      internalID: -3687092881601724268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 639
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e69ccdb80b20030800000000000000
+      internalID: 3459521578525093430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 639
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256f4742a85137ce0800000000000000
+      internalID: -1408758575375518126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 639
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab67c0ded353bf0800000000000000
+      internalID: -345301708098323891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 639
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3080477f7a144f0800000000000000
+      internalID: -846210573723499537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 575
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c53dfaf49179300800000000000000
+      internalID: 258703333640068185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 575
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8563343bf3b2e0800000000000000
+      internalID: -2111067598687465489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 575
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daebabb47b380b530800000000000000
+      internalID: 3868736903184039597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 575
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b823155800bcaee0800000000000000
+      internalID: -1248429446854924108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 575
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4773d2e7b028b20800000000000000
+      internalID: 3135080927155680421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd5288efea4b5fc0800000000000000
+      internalID: -3505125490719302178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 575
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6082234d2aab92c10800000000000000
+      internalID: 2029358315614644230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_47
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 575
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b1ed771df04c090800000000000000
+      internalID: -8015264044479013997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_48
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 575
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe28d01464a64d0800000000000000
+      internalID: -3140620544923997254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_49
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 575
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467d1ddaafe2e6670800000000000000
+      internalID: 8533809998106580836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d66c03491e1f80800000000000000
+      internalID: -8134036101222968349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 511
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be01211afb20a960800000000000000
+      internalID: 7611131723285335734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 511
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e995b21b5432aa0800000000000000
+      internalID: -6187024835838108121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 511
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5bfbd596959c6f0800000000000000
+      internalID: -663901160981154309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 511
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e376ad699d211d60800000000000000
+      internalID: 7859112961731097577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 511
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c467c3c6f5cadd20800000000000000
+      internalID: 3304170940266931396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 511
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e03c6cf143319c0800000000000000
+      internalID: -3957762336445231572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_57
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 511
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc95542301c8d930800000000000000
+      internalID: 4168293674370047231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_58
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 511
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5550e696be6d052d0800000000000000
+      internalID: -3291895021033355947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_59
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 511
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e5d97ce06e41b0800000000000000
+      internalID: -5670488312040267715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9212900a8f7d9b430800000000000000
+      internalID: 3799305223500538153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 447
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faae56ee53295e2d0800000000000000
+      internalID: -3250030795747366225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 447
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de92a364ad3d4480800000000000000
+      internalID: -8913400311240810793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 447
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff3a33f64674ac0800000000000000
+      internalID: -3871014925931118721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 447
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634dfb95c94d67320800000000000000
+      internalID: 2555463606565065782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 447
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950103c65af53960800000000000000
+      internalID: 7581240798293853598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 447
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d429679a9cdc337e0800000000000000
+      internalID: -1786858361120714163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 447
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b681c4317f3205870800000000000000
+      internalID: 8669468826775853163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 447
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c7f2902caae420800000000000000
+      internalID: 2660127785820340701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_69
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 447
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d946d2a26d00b80800000000000000
+      internalID: -8430503025799029469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff7fb4948d75f00800000000000000
+      internalID: 1105590042861502263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_71
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 383
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a742e8bd887269b0800000000000000
+      internalID: -5088372078887680096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 383
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2613591e2cb15f80800000000000000
+      internalID: -8119501746992900564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 383
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b3fe5b958de710800000000000000
+      internalID: 1724181134712222243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 383
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefc1c04fd609ede0800000000000000
+      internalID: -1303503061213130772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 383
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c205e7f6735cb0800000000000000
+      internalID: -4876423164440950668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 383
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ce7e5e87a69f50800000000000000
+      internalID: 6887876910022314321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_77
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 383
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaca2eea7b74fff0800000000000000
+      internalID: -3241931808519445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 383
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c84ebf44d729c200800000000000000
+      internalID: 200735451219118276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_79
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 383
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35157417f78bacc30800000000000000
+      internalID: 4380516445072085331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 319
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77362ab3be88d4a80800000000000000
+      internalID: -8480971979369585801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bd189c7738cc890800000000000000
+      internalID: -7436424334190454013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 319
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b2f891868177a90800000000000000
+      internalID: -7316352234255602943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 319
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837d8ca860c76bf0800000000000000
+      internalID: -331084491784359028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 319
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8490f723e43081d10800000000000000
+      internalID: 2096429260930484552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 319
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3cd7c9819d57e0800000000000000
+      internalID: -1775102657164460210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_86
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 319
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0a1e860fa638b0800000000000000
+      internalID: -5172754679299699578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 319
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303018319f0b707a0800000000000000
+      internalID: -6410960960718044413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_88
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 319
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a9ec3360ec2340800000000000000
+      internalID: 4840490416344768681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_89
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 319
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b27a5e3df7b186d0800000000000000
+      internalID: -2989906379296574795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79810aee378c042e0800000000000000
+      internalID: -2143493022378092393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f15b11a590e8d00800000000000000
+      internalID: 976728451634765607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_92
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ee2fbf809b9c290800000000000000
+      internalID: -7869555425615352217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b08e577356cc100800000000000000
+      internalID: 129589778162649951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_94
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a8dc96a0d36120800000000000000
+      internalID: 2405996039960568452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439a50de8d439cee0800000000000000
+      internalID: -1240402116069709516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_96
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 255
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b84615f8d2cb8d80800000000000000
+      internalID: -8247284055518328651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_97
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 255
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac46e743f918cca50800000000000000
+      internalID: 6542746879442969802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_98
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 255
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9056a13cca274e0800000000000000
+      internalID: -1985334531755537982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_99
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 255
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17121a14c65400d0800000000000000
+      internalID: -3457543213662726373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b66078312251fa0800000000000000
+      internalID: -5830716675296171186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_101
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12925df30cc9eeb20800000000000000
+      internalID: 3165639937606625569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e97b77cc2a6adb0800000000000000
+      internalID: -4780954955341652377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_103
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6ccf9e69f3b880800000000000000
+      internalID: -8596253010197451404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_104
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452e8a2bef511eb0800000000000000
+      internalID: -4750910668263250611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 191
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a335d1c05e2790800000000000000
+      internalID: -7553010731617901138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1cd94154f80c110800000000000000
+      internalID: 1279179821034619318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_107
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 191
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6869bf375605f0a50800000000000000
+      internalID: 6489493984731960966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_108
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 191
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9191a74a032504b10800000000000000
+      internalID: 1963659806404909337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_109
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 191
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ce815ba229f4b0800000000000000
+      internalID: -5406251758478506616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad37847ab3377190800000000000000
+      internalID: -7964840540069479000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_111
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc93f2e64f263af0800000000000000
+      internalID: -417093933983359805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_112
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211bbf31e797d62d0800000000000000
+      internalID: -3283834970875121390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f27527c29e114c0800000000000000
+      internalID: -4318414190565445801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7f9f77cc4f5e10800000000000000
+      internalID: 2188552363648711994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa47a4de16e0f230800000000000000
+      internalID: 3670686716398095101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_116
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 127
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa77c22ac404620800000000000000
+      internalID: 2756287231365196540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_117
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a3ff33810781c0800000000000000
+      internalID: -4501627639308245418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_118
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 127
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c832e162075cd0800000000000000
+      internalID: -2569582442961123534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_119
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 127
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d529265c8d26840800000000000000
+      internalID: 5215969660722371970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0f6f4be014ba2e0800000000000000
+      internalID: -2113524068698885950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb3a397eacd32d0800000000000000
+      internalID: -3297256256202097689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef210f32601534c20800000000000000
+      internalID: 3189482047923032830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_123
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b33f9811fa9d7ad0800000000000000
+      internalID: -2702833841061547080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_124
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 63
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c45934a5bc2b0c0800000000000000
+      internalID: -4561359884031538173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 63
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1acdcbb50ecdd820800000000000000
+      internalID: 2944736255391156767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257479677c405bac0800000000000000
+      internalID: -3840157852528851118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 63
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c412e581b4ca7210800000000000000
+      internalID: 1331592906575844550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 63
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b6076c26ae1a470800000000000000
+      internalID: 8404256089607006997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 63
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfc463f05a0fd30800000000000000
+      internalID: 4463248715478269092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_130
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bcfc7d9570938b0800000000000000
+      internalID: -5172094614604100707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2658650a79ef4300800000000000000
+      internalID: 238666015559931438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_132
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ddb88d506b8e420800000000000000
+      internalID: 2659575716186414338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_133
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a25d4b99a64f310800000000000000
+      internalID: 1437891389434440242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore characters sheet 5_134
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f627558e63ef6510800000000000000
+      internalID: 1544703261034358518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
