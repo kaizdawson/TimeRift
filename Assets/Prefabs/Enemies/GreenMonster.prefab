@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 8476324572115652776}
   - component: {fileID: 4342672110761399395}
   - component: {fileID: 8482387922209005412}
+  - component: {fileID: 4107230291111553229}
   m_Layer: 0
   m_Name: GreenMonster
   m_TagString: Untagged
@@ -253,3 +254,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   whiteFlashMat: {fileID: 2100000, guid: 171c6f02d2edd794282666f2c5d93624, type: 2}
   restoreDefaultMatTime: 0.2
+--- !u!114 &4107230291111553229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451927648463374515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2277d9ce7862fc498fec26cfbd77039, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goldCoin: {fileID: 466242026746255751, guid: b2025e47e73adb1419c9d1a3014c39c5, type: 3}
+  healthGlobe: {fileID: 466242026746255751, guid: b0b4607dec07ed043a1799e975f3114a, type: 3}
+  staminaGlobe: {fileID: 466242026746255751, guid: 6e5475d69fe661e4f8d3782fc6e416a6, type: 3}

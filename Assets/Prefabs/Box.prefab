@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3148249355564676551}
   - component: {fileID: 2714804791471036434}
   - component: {fileID: 5986932898461280936}
+  - component: {fileID: 260750631918337349}
   m_Layer: 0
   m_Name: Box
   m_TagString: Untagged
@@ -308,3 +309,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyVFX: {fileID: 8132395803139275729, guid: 9cd6f4cd52f392d48ace5d83eb5d1d7c, type: 3}
+--- !u!114 &260750631918337349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386292641064500903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2277d9ce7862fc498fec26cfbd77039, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goldCoin: {fileID: 466242026746255751, guid: b2025e47e73adb1419c9d1a3014c39c5, type: 3}
+  healthGlobe: {fileID: 466242026746255751, guid: b0b4607dec07ed043a1799e975f3114a, type: 3}
+  staminaGlobe: {fileID: 466242026746255751, guid: 6e5475d69fe661e4f8d3782fc6e416a6, type: 3}
