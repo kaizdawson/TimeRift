@@ -34,6 +34,7 @@ public class Projectile : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+
         EnemyHealth enemyHealth = other.gameObject.GetComponent<EnemyHealth>();
         Indestructible indestructible = other.gameObject.GetComponent<Indestructible>();
         PlayerHealth player = other.gameObject.GetComponent<PlayerHealth>();
@@ -43,6 +44,7 @@ public class Projectile : MonoBehaviour
             if ((player && isEnemyProjectile) || (enemyHealth && !isEnemyProjectile))
             {
                 player?.TakeDamage(1, transform);
+                enemyHealth?.TakeDamage(1);
                 Instantiate(particleOnHitPrefabVFX, transform.position, transform.rotation);
                 Destroy(gameObject);
             }

@@ -154,7 +154,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!96 &2462016516816357612
 TrailRenderer:
   serializedVersion: 3
@@ -199,7 +199,7 @@ TrailRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 3
   m_Time: 0.1
   m_PreviewTimeScale: 1
   m_Parameters:
@@ -285,5 +285,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 22
   particleOnHitPrefabVFX: {fileID: 8132395803139275729, guid: 192c164bc3951664dad9b86e29bd3ce9, type: 3}
-  isEnemyProjectile: 1
-  projectileRange: 10
+  isEnemyProjectile: 0
+  projectileRange: 20

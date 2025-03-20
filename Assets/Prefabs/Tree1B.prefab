@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7317608422904137229}
   - component: {fileID: 1565419268715273674}
   - component: {fileID: 7143232037834097206}
+  - component: {fileID: 7129913515898719273}
   m_Layer: 0
   m_Name: Tree1B
   m_TagString: Untagged
@@ -27,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 275453178096859920}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.92, y: 5.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -148,3 +149,15 @@ CapsuleCollider2D:
   m_Offset: {x: -0.20652068, y: -2.7845037}
   m_Size: {x: 2.561975, y: 1.3455535}
   m_Direction: 1
+--- !u!114 &7129913515898719273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 275453178096859920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff9332d0e2b658e49bf568a7febb1395, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
