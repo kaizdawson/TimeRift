@@ -26,4 +26,13 @@ public class Flash : MonoBehaviour
         spriteRenderer.material = defaultMat;
         
     }
+
+    public void ResetMaterial()
+    {
+        if (spriteRenderer != null && defaultMat != null)
+        {
+            spriteRenderer.material = defaultMat;
+        }
+    }
+
 }

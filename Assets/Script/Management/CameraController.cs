@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class CameraController : Singleton<CameraController>
 {
-    private CinemachineCamera cinemachineCamera;
+    [SerializeField] private CinemachineCamera cinemachineCamera;
     private void Start()
     {
-        SetPlayerCemaraFollow();
+        SetPlayerCameraFollow();
     }
-    public void SetPlayerCemaraFollow()
+    public void SetPlayerCameraFollow()
     {
         cinemachineCamera = FindFirstObjectByType<CinemachineCamera>();
         cinemachineCamera.Follow = PlayerController.Instance.transform;

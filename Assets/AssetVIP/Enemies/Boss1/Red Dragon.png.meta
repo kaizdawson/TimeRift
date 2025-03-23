@@ -1,0 +1,4225 @@
+fileFormatVersion: 2
+guid: 65871c56064f96f498f207863198be05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5042729887898976422
+    second: Red Dragon_0
+  - first:
+      213: -180913344413318691
+    second: Red Dragon_1
+  - first:
+      213: -8610230667455569465
+    second: Red Dragon_2
+  - first:
+      213: -4121400352038009873
+    second: Red Dragon_3
+  - first:
+      213: 6191912136770418458
+    second: Red Dragon_4
+  - first:
+      213: 5302678910163818116
+    second: Red Dragon_5
+  - first:
+      213: -3271642548172920936
+    second: Red Dragon_6
+  - first:
+      213: 8999194664628390926
+    second: Red Dragon_7
+  - first:
+      213: -1801902474913045480
+    second: Red Dragon_8
+  - first:
+      213: -476036780820035930
+    second: Red Dragon_9
+  - first:
+      213: -4914520710511773965
+    second: Red Dragon_10
+  - first:
+      213: -3093824088738875141
+    second: Red Dragon_11
+  - first:
+      213: 2613652717964797252
+    second: Red Dragon_12
+  - first:
+      213: -6440463424748084222
+    second: Red Dragon_13
+  - first:
+      213: -7560857429951933065
+    second: Red Dragon_14
+  - first:
+      213: 8583109805212529303
+    second: Red Dragon_15
+  - first:
+      213: 1602140254942764131
+    second: Red Dragon_16
+  - first:
+      213: 1227501718622543907
+    second: Red Dragon_17
+  - first:
+      213: -3932738985740546242
+    second: Red Dragon_18
+  - first:
+      213: 6643674828413818579
+    second: Red Dragon_19
+  - first:
+      213: 5396905384708686362
+    second: Red Dragon_20
+  - first:
+      213: -157495688263102289
+    second: Red Dragon_21
+  - first:
+      213: -5611604418544244607
+    second: Red Dragon_22
+  - first:
+      213: 8137264752550422748
+    second: Red Dragon_23
+  - first:
+      213: 2120241402561301864
+    second: Red Dragon_24
+  - first:
+      213: -1925156249659599021
+    second: Red Dragon_25
+  - first:
+      213: 5648280965124184716
+    second: Red Dragon_26
+  - first:
+      213: 1630197246414695726
+    second: Red Dragon_27
+  - first:
+      213: 7526385941522761012
+    second: Red Dragon_28
+  - first:
+      213: 4344353668135199078
+    second: Red Dragon_29
+  - first:
+      213: 6869840503445016808
+    second: Red Dragon_30
+  - first:
+      213: 3150661864808681932
+    second: Red Dragon_31
+  - first:
+      213: 5276945729786335019
+    second: Red Dragon_32
+  - first:
+      213: 3469229144549272970
+    second: Red Dragon_33
+  - first:
+      213: -3136076222139710097
+    second: Red Dragon_34
+  - first:
+      213: -1490772433845966218
+    second: Red Dragon_35
+  - first:
+      213: -8798264487225031197
+    second: Red Dragon_36
+  - first:
+      213: 3367889823327345939
+    second: Red Dragon_37
+  - first:
+      213: 7755170955433979403
+    second: Red Dragon_38
+  - first:
+      213: -8346985722897632036
+    second: Red Dragon_39
+  - first:
+      213: 3175365254278070149
+    second: Red Dragon_40
+  - first:
+      213: -2351334718408263389
+    second: Red Dragon_41
+  - first:
+      213: -7651893607465354572
+    second: Red Dragon_42
+  - first:
+      213: 6049917219975277003
+    second: Red Dragon_43
+  - first:
+      213: -4830908882134997753
+    second: Red Dragon_44
+  - first:
+      213: 3195854069773827070
+    second: Red Dragon_45
+  - first:
+      213: -3813644876167980009
+    second: Red Dragon_46
+  - first:
+      213: 7155213117352955746
+    second: Red Dragon_47
+  - first:
+      213: 2437696319046434818
+    second: Red Dragon_48
+  - first:
+      213: -2777537958117624648
+    second: Red Dragon_49
+  - first:
+      213: 1546629398632776452
+    second: Red Dragon_50
+  - first:
+      213: -4774150741278072019
+    second: Red Dragon_51
+  - first:
+      213: 3325594771855706417
+    second: Red Dragon_52
+  - first:
+      213: -8525155069901978127
+    second: Red Dragon_53
+  - first:
+      213: -853245825948036982
+    second: Red Dragon_54
+  - first:
+      213: -4674163932179455098
+    second: Red Dragon_55
+  - first:
+      213: 4945434127781771014
+    second: Red Dragon_56
+  - first:
+      213: -6342509360247777896
+    second: Red Dragon_57
+  - first:
+      213: -6727692288704408392
+    second: Red Dragon_58
+  - first:
+      213: -4515326920318940150
+    second: Red Dragon_59
+  - first:
+      213: -558596703982303942
+    second: Red Dragon_60
+  - first:
+      213: 6159982395067257761
+    second: Red Dragon_61
+  - first:
+      213: 7015781051357451708
+    second: Red Dragon_62
+  - first:
+      213: -8754808392106168234
+    second: Red Dragon_63
+  - first:
+      213: 4256589500730314530
+    second: Red Dragon_64
+  - first:
+      213: -6766305201145136987
+    second: Red Dragon_65
+  - first:
+      213: -2242883904055911248
+    second: Red Dragon_66
+  - first:
+      213: -6811264000270402444
+    second: Red Dragon_67
+  - first:
+      213: 2020370491430868389
+    second: Red Dragon_68
+  - first:
+      213: 6538519869529729212
+    second: Red Dragon_69
+  - first:
+      213: -6300276678312228426
+    second: Red Dragon_70
+  - first:
+      213: 4166265624363841921
+    second: Red Dragon_71
+  - first:
+      213: -7769427048861428396
+    second: Red Dragon_72
+  - first:
+      213: 5665160684585607010
+    second: Red Dragon_73
+  - first:
+      213: -5583524964994590377
+    second: Red Dragon_74
+  - first:
+      213: -2829981200198193207
+    second: Red Dragon_75
+  - first:
+      213: 3900662733504560552
+    second: Red Dragon_76
+  - first:
+      213: 42709011710695167
+    second: Red Dragon_77
+  - first:
+      213: -6911012204207220359
+    second: Red Dragon_78
+  - first:
+      213: 1349709997540082442
+    second: Red Dragon_79
+  - first:
+      213: 2013079737416965554
+    second: Red Dragon_80
+  - first:
+      213: 8394895227733526336
+    second: Red Dragon_81
+  - first:
+      213: -6159520270961803329
+    second: Red Dragon_82
+  - first:
+      213: -5515059974890337282
+    second: Red Dragon_83
+  - first:
+      213: -5753408570448263971
+    second: Red Dragon_84
+  - first:
+      213: -5938414456624946673
+    second: Red Dragon_85
+  - first:
+      213: 7312593310004442895
+    second: Red Dragon_86
+  - first:
+      213: 4141555851446743492
+    second: Red Dragon_87
+  - first:
+      213: 6014563174265536856
+    second: Red Dragon_88
+  - first:
+      213: -5258821729310560812
+    second: Red Dragon_89
+  - first:
+      213: 8056861559507710340
+    second: Red Dragon_90
+  - first:
+      213: 344481172080485736
+    second: Red Dragon_91
+  - first:
+      213: -3815297914246527245
+    second: Red Dragon_92
+  - first:
+      213: 7323850797909424323
+    second: Red Dragon_93
+  - first:
+      213: -9190770148389686674
+    second: Red Dragon_94
+  - first:
+      213: -5672955879556177027
+    second: Red Dragon_95
+  - first:
+      213: 8951691190611616905
+    second: Red Dragon_96
+  - first:
+      213: 645196918610271110
+    second: Red Dragon_97
+  - first:
+      213: -3449759464742349789
+    second: Red Dragon_98
+  - first:
+      213: -955214758775474125
+    second: Red Dragon_99
+  - first:
+      213: 2253805365430000765
+    second: Red Dragon_100
+  - first:
+      213: -285318178398194598
+    second: Red Dragon_101
+  - first:
+      213: -4333806667242713727
+    second: Red Dragon_102
+  - first:
+      213: 4619000517043098627
+    second: Red Dragon_103
+  - first:
+      213: 8686051777825406925
+    second: Red Dragon_104
+  - first:
+      213: -3898729985343556009
+    second: Red Dragon_105
+  - first:
+      213: -5122214032436701717
+    second: Red Dragon_106
+  - first:
+      213: 1081992773965000919
+    second: Red Dragon_107
+  - first:
+      213: -3411038957623194467
+    second: Red Dragon_108
+  - first:
+      213: 6668998833095773884
+    second: Red Dragon_109
+  - first:
+      213: -4712746901362391318
+    second: Red Dragon_110
+  - first:
+      213: 1651007307948854184
+    second: Red Dragon_111
+  - first:
+      213: 795661566789950465
+    second: Red Dragon_112
+  - first:
+      213: -2200436429101187490
+    second: Red Dragon_113
+  - first:
+      213: -7265195859453277553
+    second: Red Dragon_114
+  - first:
+      213: -135058313084916702
+    second: Red Dragon_115
+  - first:
+      213: 1573524430817624602
+    second: Red Dragon_116
+  - first:
+      213: 116025551517492367
+    second: Red Dragon_117
+  - first:
+      213: -7005310274679289816
+    second: Red Dragon_118
+  - first:
+      213: 6414256271764104628
+    second: Red Dragon_119
+  - first:
+      213: 7930127070357509635
+    second: Red Dragon_120
+  - first:
+      213: 3365105412383469189
+    second: Red Dragon_121
+  - first:
+      213: 5318636760706620595
+    second: Red Dragon_122
+  - first:
+      213: -4196272591992107753
+    second: Red Dragon_123
+  - first:
+      213: 2166873385329353561
+    second: Red Dragon_124
+  - first:
+      213: 271912428131655194
+    second: Red Dragon_125
+  - first:
+      213: -5516210184181822371
+    second: Red Dragon_126
+  - first:
+      213: -4895980925610053664
+    second: Red Dragon_127
+  - first:
+      213: 3580717662648355654
+    second: Red Dragon_128
+  - first:
+      213: 6751347255781668379
+    second: Red Dragon_129
+  - first:
+      213: 8930573284727418076
+    second: Red Dragon_130
+  - first:
+      213: -2647719770838481849
+    second: Red Dragon_131
+  - first:
+      213: -5576850249801755760
+    second: Red Dragon_132
+  - first:
+      213: -1218637662570890525
+    second: Red Dragon_133
+  - first:
+      213: -4606012659196229657
+    second: Red Dragon_134
+  - first:
+      213: 7637686221547980586
+    second: Red Dragon_135
+  - first:
+      213: 3175089705537973677
+    second: Red Dragon_136
+  - first:
+      213: 8267027693923287
+    second: Red Dragon_137
+  - first:
+      213: -159624118139685767
+    second: Red Dragon_138
+  - first:
+      213: -7863556967703103508
+    second: Red Dragon_139
+  - first:
+      213: 5713398431355268818
+    second: Red Dragon_140
+  - first:
+      213: 8607497025595397892
+    second: Red Dragon_141
+  - first:
+      213: 346883098186400754
+    second: Red Dragon_142
+  - first:
+      213: -9134803176285379438
+    second: Red Dragon_143
+  - first:
+      213: 3188968073087475938
+    second: Red Dragon_144
+  - first:
+      213: -3288809019084098180
+    second: Red Dragon_145
+  - first:
+      213: 5091506630320819713
+    second: Red Dragon_146
+  - first:
+      213: 9032122409560060672
+    second: Red Dragon_147
+  - first:
+      213: -3912198678172221458
+    second: Red Dragon_148
+  - first:
+      213: -1783725381949341817
+    second: Red Dragon_149
+  - first:
+      213: -3254405409953098707
+    second: Red Dragon_150
+  - first:
+      213: -7049087893155163061
+    second: Red Dragon_151
+  - first:
+      213: -5266919729684639283
+    second: Red Dragon_152
+  - first:
+      213: -3978671211362892670
+    second: Red Dragon_153
+  - first:
+      213: -4301257153224458672
+    second: Red Dragon_154
+  - first:
+      213: -1065513338249995839
+    second: Red Dragon_155
+  - first:
+      213: 7079083654204116518
+    second: Red Dragon_156
+  - first:
+      213: 2124197051759488809
+    second: Red Dragon_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 942
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0c6729d106bf540800000000000000
+      internalID: 5042729887898976422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 942
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1cd1395444d7df0800000000000000
+      internalID: -180913344413318691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 942
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e220b3d0528880800000000000000
+      internalID: -8610230667455569465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 942
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ca974738ddc6c0800000000000000
+      internalID: -4121400352038009873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 942
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1771a048471ee550800000000000000
+      internalID: 6191912136770418458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 942
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486154ebf56e69940800000000000000
+      internalID: 5302678910163818116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 942
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976914bf6ac892d0800000000000000
+      internalID: -3271642548172920936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 942
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c04c12edf83ec70800000000000000
+      internalID: 8999194664628390926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 942
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81429e6fe3b5ef6e0800000000000000
+      internalID: -1801902474913045480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1016
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6833be117c469f0800000000000000
+      internalID: -476036780820035930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 942
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f635a8b37d1ccbb0800000000000000
+      internalID: -4914520710511773965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1016
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf83c2112678015d0800000000000000
+      internalID: -3093824088738875141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 942
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a68c9c4f854420800000000000000
+      internalID: 2613652717964797252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1020
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204aef263a0ee96a0800000000000000
+      internalID: -6440463424748084222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 942
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77597520a30721790800000000000000
+      internalID: -7560857429951933065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1029
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927ddf74e45d1770800000000000000
+      internalID: 8583109805212529303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 942
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c9738c212fb3610800000000000000
+      internalID: 1602140254942764131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 942
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320adab3f46f80110800000000000000
+      internalID: 1227501718622543907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 786
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fca90aaba1c69c0800000000000000
+      internalID: -3932738985740546242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 785
+        width: 171
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65fc68e03133c50800000000000000
+      internalID: 6643674828413818579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 785
+        width: 196
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1244f57ad8a5ea40800000000000000
+      internalID: 5396905384708686362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 785
+        width: 141
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa01c67818670ddf0800000000000000
+      internalID: -157495688263102289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 863
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18868ac43839f12b0800000000000000
+      internalID: -5611604418544244607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 785
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8231bed2f5de070800000000000000
+      internalID: 8137264752550422748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 868
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0eb5725c9c6d10800000000000000
+      internalID: 2120241402561301864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 785
+        width: 218
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579ae147987845e0800000000000000
+      internalID: -1925156249659599021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 785
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad3d5ac99b26e40800000000000000
+      internalID: 5648280965124184716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 871
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2e5a22cf9f9610800000000000000
+      internalID: 1630197246414695726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 645
+        width: 171
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43545f62328137860800000000000000
+      internalID: 7526385941522761012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 645
+        width: 199
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612ddfc4ae3a4c30800000000000000
+      internalID: 4344353668135199078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 645
+        width: 149
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e05e673a83965f50800000000000000
+      internalID: 6869840503445016808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 653
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc19a4be54669bb20800000000000000
+      internalID: 3150661864808681932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 705
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fcdeace2a7b3940800000000000000
+      internalID: 5276945729786335019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 645
+        width: 184
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8daa45b68d252030800000000000000
+      internalID: 3469229144549272970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 643
+        width: 244
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6540d6aa4b6a74d0800000000000000
+      internalID: -3136076222139710097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 645
+        width: 163
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aaaafae56bf4be0800000000000000
+      internalID: -1490772433845966218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 645
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e58407601946e580800000000000000
+      internalID: -8798264487225031197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 477
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d541253f52dbe20800000000000000
+      internalID: 3367889823327345939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 442
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea11335e6ef9b60800000000000000
+      internalID: 7755170955433979403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 443
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4fd6195bc892c80800000000000000
+      internalID: -8346985722897632036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 449
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fbc5dffd9211c20800000000000000
+      internalID: 3175365254278070149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 386
+        width: 171
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297b3118816e5fd0800000000000000
+      internalID: -2351334718408263389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 466
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baf1f33e430fc590800000000000000
+      internalID: -7651893607465354572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 466
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9252168af95f350800000000000000
+      internalID: 6049917219975277003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 466
+        width: 173
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705601a87f925fcb0800000000000000
+      internalID: -4830908882134997753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 417
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbfad61854f95c20800000000000000
+      internalID: 3195854069773827070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cd480d036331bc0800000000000000
+      internalID: -3813644876167980009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 417
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc9089b6c6c4360800000000000000
+      internalID: 7155213117352955746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 417
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004a0ff2ef64d120800000000000000
+      internalID: 2437696319046434818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 417
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b43c3071f33479d0800000000000000
+      internalID: -2777537958117624648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403cea06e3bb67510800000000000000
+      internalID: 1546629398632776452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 414
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23e3f1023fcebdb0800000000000000
+      internalID: -4774150741278072019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1390b5343d2e62e20800000000000000
+      internalID: 3325594771855706417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f54f53d1a090b980800000000000000
+      internalID: -8525155069901978127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 395
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8058462179a824f0800000000000000
+      internalID: -853245825948036982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68320802ba8022fb0800000000000000
+      internalID: -4674163932179455098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 395
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b68e1326b1a440800000000000000
+      internalID: 4945434127781771014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89557d54751eaf7a0800000000000000
+      internalID: -6342509360247777896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b493ad128f62a2a0800000000000000
+      internalID: -6727692288704408392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 395
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c81a5d6165651c0800000000000000
+      internalID: -4515326920318940150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a354e6ed1477f38f0800000000000000
+      internalID: -558596703982303942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 395
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d4a0f957ac7550800000000000000
+      internalID: 6159982395067257761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 395
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5d31ce1bf0d5160800000000000000
+      internalID: 7015781051357451708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 392
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65037eff62ca08680800000000000000
+      internalID: -8754808392106168234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 395
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f00b93991721b30800000000000000
+      internalID: 4256589500730314530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 395
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8bddbd4414912a0800000000000000
+      internalID: -6766305201145136987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc5e4af8fcafd0e0800000000000000
+      internalID: -2242883904055911248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf978ba778971a0800000000000000
+      internalID: -6811264000270402444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 395
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51b60f14cc90c10800000000000000
+      internalID: 2020370491430868389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 395
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb82724cd2d7dba50800000000000000
+      internalID: 6538519869529729212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9858acdbbe098a0800000000000000
+      internalID: -6300276678312228426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 392
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b024f28c81d930800000000000000
+      internalID: 4166265624363841921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 395
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4559d4463437d2490800000000000000
+      internalID: -7769427048861428396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 246
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fdb3890a1be9e40800000000000000
+      internalID: 5665160684585607010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 379
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d8fa80a55382b0800000000000000
+      internalID: -5583524964994590377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 379
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf2721a713e9b8d0800000000000000
+      internalID: -2829981200198193207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 377
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb42be610f12630800000000000000
+      internalID: 3900662733504560552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 379
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff659bfae9bb79000800000000000000
+      internalID: 42709011710695167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 379
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d6d134072710a0800000000000000
+      internalID: -6911012204207220359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 379
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a038b2977122bb210800000000000000
+      internalID: 1349709997540082442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 376
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd564dfa55efeb10800000000000000
+      internalID: 2013079737416965554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 379
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047cda74bb8a08470800000000000000
+      internalID: 8394895227733526336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 379
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff086b2fcf48aa0800000000000000
+      internalID: -6159520270961803329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 379
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbcfa14c229673b0800000000000000
+      internalID: -5515059974890337282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 379
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44eb65369c720b0800000000000000
+      internalID: -5753408570448263971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 379
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0263d7c383869da0800000000000000
+      internalID: -5938414456624946673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 379
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0776b52fdc8b7560800000000000000
+      internalID: 7312593310004442895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_87
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 379
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c17cee9a13c97930800000000000000
+      internalID: 4141555851446743492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_88
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 379
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514e392755087350800000000000000
+      internalID: 6014563174265536856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_89
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 183
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda657ef79e407b0800000000000000
+      internalID: -5258821729310560812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 261
+        width: 183
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f4fab6e8bfcf60800000000000000
+      internalID: 8056861559507710340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 246
+        width: 174
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865eaa50dc7d7c400800000000000000
+      internalID: 344481172080485736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_92
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 246
+        width: 140
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60c05e2c65d0bc0800000000000000
+      internalID: -3815297914246527245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_93
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 246
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83a5d4f7b83a560800000000000000
+      internalID: 7323850797909424323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_94
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 245
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62f7fcae33d37080800000000000000
+      internalID: -9190770148389686674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_95
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 244
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7327942fac9541b0800000000000000
+      internalID: -5672955879556177027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_96
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 244
+        width: 132
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9842663b5bbca3c70800000000000000
+      internalID: 8951691190611616905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_97
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 244
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b11f7dd2334f800800000000000000
+      internalID: 645196918610271110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_98
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 245
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249d7f5b0eff10d0800000000000000
+      internalID: -3449759464742349789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_99
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 206
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383af2ec356eb2f0800000000000000
+      internalID: -955214758775474125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_100
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 203
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1357e900274f10800000000000000
+      internalID: 2253805365430000765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_101
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 203
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543d90e0a85a0cf0800000000000000
+      internalID: -285318178398194598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_102
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 206
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d47c13cc93bd3c0800000000000000
+      internalID: -4333806667242713727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 206
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30413bb6f7cf91040800000000000000
+      internalID: 4619000517043098627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 206
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcffeed321e0b8870800000000000000
+      internalID: 8686051777825406925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 203
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756fe641cbde4e9c0800000000000000
+      internalID: -3898729985343556009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 123
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d615e97d3ae8b0800000000000000
+      internalID: -5122214032436701717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_107
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 88
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d039bdf1b2040f00800000000000000
+      internalID: 1081992773965000919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_108
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 84
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cc9d7f32e89a0d0800000000000000
+      internalID: -3411038957623194467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_109
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 81
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe0b26da1b0d8c50800000000000000
+      internalID: 6668998833095773884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_110
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 185
+        width: 126
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c8f399a5f89eb0800000000000000
+      internalID: -4712746901362391318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_111
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8ddf266e89e610800000000000000
+      internalID: 1651007307948854184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_112
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c12f9baf1ca0b00800000000000000
+      internalID: 795661566789950465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_113
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 188
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3894e9ba7671e0800000000000000
+      internalID: -2200436429101187490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_114
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 188
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a06a5cbd6dc2b90800000000000000
+      internalID: -7265195859453277553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_115
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 142
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c2c980e2d202ef0800000000000000
+      internalID: -135058313084916702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 88
+        width: 119
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a128848022846d510800000000000000
+      internalID: 1573524430817624602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_117
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 88
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a117df943c9100800000000000000
+      internalID: 116025551517492367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 78
+        width: 115
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828c850cb6328ce90800000000000000
+      internalID: -7005310274679289816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_119
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 172
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b522d05814040950800000000000000
+      internalID: 6414256271764104628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_120
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3065e5c0e887d0e60800000000000000
+      internalID: 7930127070357509635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_121
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 172
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6cd02b8143be20800000000000000
+      internalID: 3365105412383469189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_122
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc904b54f79fc940800000000000000
+      internalID: 5318636760706620595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_123
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 169
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4a957f48d3c5c0800000000000000
+      internalID: -4196272591992107753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_124
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 172
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953edc50dd7421e10800000000000000
+      internalID: 2166873385329353561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_125
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e1dc8a9e606c300800000000000000
+      internalID: 271912428131655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_126
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 172
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c4379401c7273b0800000000000000
+      internalID: -5516210184181822371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_127
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 170
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eface5c94bfd0cb0800000000000000
+      internalID: -4895980925610053664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_128
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 169
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4f132eb341b130800000000000000
+      internalID: 3580717662648355654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_129
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 172
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16bc281f8a91bd50800000000000000
+      internalID: 6751347255781668379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_130
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 172
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc65c41615cfeb70800000000000000
+      internalID: 8930573284727418076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_131
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 172
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c46a85e8614bd0800000000000000
+      internalID: -2647719770838481849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_132
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939407ce3c0b92b0800000000000000
+      internalID: -5576850249801755760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_133
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 172
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eabc84a087861fe0800000000000000
+      internalID: -1218637662570890525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_134
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 153
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e708a1e3e72410c0800000000000000
+      internalID: -4606012659196229657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_135
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27434df6238ef960800000000000000
+      internalID: 7637686221547980586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_136
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad279cc34f201c20800000000000000
+      internalID: 3175089705537973677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_137
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 156
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6b0161de5d1000800000000000000
+      internalID: 8267027693923287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_138
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f2b4d5b6e8cdf0800000000000000
+      internalID: -159624118139685767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_139
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 153
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7320dc9980fd290800000000000000
+      internalID: -7863556967703103508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_140
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de64393a911a4f40800000000000000
+      internalID: 5713398431355268818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_141
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40758d7b0f8f37770800000000000000
+      internalID: 8607497025595397892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_142
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ccf5075060d400800000000000000
+      internalID: 346883098186400754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_143
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 156
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2946660d8e8aa3180800000000000000
+      internalID: -9134803176285379438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_144
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e07c019d714c20800000000000000
+      internalID: 3188968073087475938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_145
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 156
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75346b3f9dcb52d0800000000000000
+      internalID: -3288809019084098180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_146
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 156
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e81d7ed4aa8a640800000000000000
+      internalID: 5091506630320819713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_147
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 82
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0033cad2a7b885d70800000000000000
+      internalID: 9032122409560060672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_148
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 89
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefbac8a70415b9c0800000000000000
+      internalID: -3912198678172221458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_149
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 79
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fbf08373fee37e0800000000000000
+      internalID: -1783725381949341817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_150
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d2a0b58706d2d0800000000000000
+      internalID: -3254405409953098707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_151
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 11
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44daf9a8eb9c2e90800000000000000
+      internalID: -7049087893155163061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_152
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 11
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc196a3496428e6b0800000000000000
+      internalID: -5266919729684639283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_153
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 11
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28444a8fc9be8c8c0800000000000000
+      internalID: -3978671211362892670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_154
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 11
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb27e786dde44c0800000000000000
+      internalID: -4301257153224458672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_155
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 11
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91b22a3498631f0800000000000000
+      internalID: -1065513338249995839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_156
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 11
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e4c10b315fd3260800000000000000
+      internalID: 7079083654204116518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dragon_157
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 11
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f6e0fc6f9aa7d10800000000000000
+      internalID: 2124197051759488809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Dragon_0: 5042729887898976422
+      Red Dragon_1: -180913344413318691
+      Red Dragon_10: -4914520710511773965
+      Red Dragon_100: 2253805365430000765
+      Red Dragon_101: -285318178398194598
+      Red Dragon_102: -4333806667242713727
+      Red Dragon_103: 4619000517043098627
+      Red Dragon_104: 8686051777825406925
+      Red Dragon_105: -3898729985343556009
+      Red Dragon_106: -5122214032436701717
+      Red Dragon_107: 1081992773965000919
+      Red Dragon_108: -3411038957623194467
+      Red Dragon_109: 6668998833095773884
+      Red Dragon_11: -3093824088738875141
+      Red Dragon_110: -4712746901362391318
+      Red Dragon_111: 1651007307948854184
+      Red Dragon_112: 795661566789950465
+      Red Dragon_113: -2200436429101187490
+      Red Dragon_114: -7265195859453277553
+      Red Dragon_115: -135058313084916702
+      Red Dragon_116: 1573524430817624602
+      Red Dragon_117: 116025551517492367
+      Red Dragon_118: -7005310274679289816
+      Red Dragon_119: 6414256271764104628
+      Red Dragon_12: 2613652717964797252
+      Red Dragon_120: 7930127070357509635
+      Red Dragon_121: 3365105412383469189
+      Red Dragon_122: 5318636760706620595
+      Red Dragon_123: -4196272591992107753
+      Red Dragon_124: 2166873385329353561
+      Red Dragon_125: 271912428131655194
+      Red Dragon_126: -5516210184181822371
+      Red Dragon_127: -4895980925610053664
+      Red Dragon_128: 3580717662648355654
+      Red Dragon_129: 6751347255781668379
+      Red Dragon_13: -6440463424748084222
+      Red Dragon_130: 8930573284727418076
+      Red Dragon_131: -2647719770838481849
+      Red Dragon_132: -5576850249801755760
+      Red Dragon_133: -1218637662570890525
+      Red Dragon_134: -4606012659196229657
+      Red Dragon_135: 7637686221547980586
+      Red Dragon_136: 3175089705537973677
+      Red Dragon_137: 8267027693923287
+      Red Dragon_138: -159624118139685767
+      Red Dragon_139: -7863556967703103508
+      Red Dragon_14: -7560857429951933065
+      Red Dragon_140: 5713398431355268818
+      Red Dragon_141: 8607497025595397892
+      Red Dragon_142: 346883098186400754
+      Red Dragon_143: -9134803176285379438
+      Red Dragon_144: 3188968073087475938
+      Red Dragon_145: -3288809019084098180
+      Red Dragon_146: 5091506630320819713
+      Red Dragon_147: 9032122409560060672
+      Red Dragon_148: -3912198678172221458
+      Red Dragon_149: -1783725381949341817
+      Red Dragon_15: 8583109805212529303
+      Red Dragon_150: -3254405409953098707
+      Red Dragon_151: -7049087893155163061
+      Red Dragon_152: -5266919729684639283
+      Red Dragon_153: -3978671211362892670
+      Red Dragon_154: -4301257153224458672
+      Red Dragon_155: -1065513338249995839
+      Red Dragon_156: 7079083654204116518
+      Red Dragon_157: 2124197051759488809
+      Red Dragon_16: 1602140254942764131
+      Red Dragon_17: 1227501718622543907
+      Red Dragon_18: -3932738985740546242
+      Red Dragon_19: 6643674828413818579
+      Red Dragon_2: -8610230667455569465
+      Red Dragon_20: 5396905384708686362
+      Red Dragon_21: -157495688263102289
+      Red Dragon_22: -5611604418544244607
+      Red Dragon_23: 8137264752550422748
+      Red Dragon_24: 2120241402561301864
+      Red Dragon_25: -1925156249659599021
+      Red Dragon_26: 5648280965124184716
+      Red Dragon_27: 1630197246414695726
+      Red Dragon_28: 7526385941522761012
+      Red Dragon_29: 4344353668135199078
+      Red Dragon_3: -4121400352038009873
+      Red Dragon_30: 6869840503445016808
+      Red Dragon_31: 3150661864808681932
+      Red Dragon_32: 5276945729786335019
+      Red Dragon_33: 3469229144549272970
+      Red Dragon_34: -3136076222139710097
+      Red Dragon_35: -1490772433845966218
+      Red Dragon_36: -8798264487225031197
+      Red Dragon_37: 3367889823327345939
+      Red Dragon_38: 7755170955433979403
+      Red Dragon_39: -8346985722897632036
+      Red Dragon_4: 6191912136770418458
+      Red Dragon_40: 3175365254278070149
+      Red Dragon_41: -2351334718408263389
+      Red Dragon_42: -7651893607465354572
+      Red Dragon_43: 6049917219975277003
+      Red Dragon_44: -4830908882134997753
+      Red Dragon_45: 3195854069773827070
+      Red Dragon_46: -3813644876167980009
+      Red Dragon_47: 7155213117352955746
+      Red Dragon_48: 2437696319046434818
+      Red Dragon_49: -2777537958117624648
+      Red Dragon_5: 5302678910163818116
+      Red Dragon_50: 1546629398632776452
+      Red Dragon_51: -4774150741278072019
+      Red Dragon_52: 3325594771855706417
+      Red Dragon_53: -8525155069901978127
+      Red Dragon_54: -853245825948036982
+      Red Dragon_55: -4674163932179455098
+      Red Dragon_56: 4945434127781771014
+      Red Dragon_57: -6342509360247777896
+      Red Dragon_58: -6727692288704408392
+      Red Dragon_59: -4515326920318940150
+      Red Dragon_6: -3271642548172920936
+      Red Dragon_60: -558596703982303942
+      Red Dragon_61: 6159982395067257761
+      Red Dragon_62: 7015781051357451708
+      Red Dragon_63: -8754808392106168234
+      Red Dragon_64: 4256589500730314530
+      Red Dragon_65: -6766305201145136987
+      Red Dragon_66: -2242883904055911248
+      Red Dragon_67: -6811264000270402444
+      Red Dragon_68: 2020370491430868389
+      Red Dragon_69: 6538519869529729212
+      Red Dragon_7: 8999194664628390926
+      Red Dragon_70: -6300276678312228426
+      Red Dragon_71: 4166265624363841921
+      Red Dragon_72: -7769427048861428396
+      Red Dragon_73: 5665160684585607010
+      Red Dragon_74: -5583524964994590377
+      Red Dragon_75: -2829981200198193207
+      Red Dragon_76: 3900662733504560552
+      Red Dragon_77: 42709011710695167
+      Red Dragon_78: -6911012204207220359
+      Red Dragon_79: 1349709997540082442
+      Red Dragon_8: -1801902474913045480
+      Red Dragon_80: 2013079737416965554
+      Red Dragon_81: 8394895227733526336
+      Red Dragon_82: -6159520270961803329
+      Red Dragon_83: -5515059974890337282
+      Red Dragon_84: -5753408570448263971
+      Red Dragon_85: -5938414456624946673
+      Red Dragon_86: 7312593310004442895
+      Red Dragon_87: 4141555851446743492
+      Red Dragon_88: 6014563174265536856
+      Red Dragon_89: -5258821729310560812
+      Red Dragon_9: -476036780820035930
+      Red Dragon_90: 8056861559507710340
+      Red Dragon_91: 344481172080485736
+      Red Dragon_92: -3815297914246527245
+      Red Dragon_93: 7323850797909424323
+      Red Dragon_94: -9190770148389686674
+      Red Dragon_95: -5672955879556177027
+      Red Dragon_96: 8951691190611616905
+      Red Dragon_97: 645196918610271110
+      Red Dragon_98: -3449759464742349789
+      Red Dragon_99: -955214758775474125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

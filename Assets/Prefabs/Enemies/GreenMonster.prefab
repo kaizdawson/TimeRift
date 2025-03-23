@@ -19,6 +19,7 @@ GameObject:
   - component: {fileID: 4342672110761399395}
   - component: {fileID: 8482387922209005412}
   - component: {fileID: 4107230291111553229}
+  - component: {fileID: 6134921453686089157}
   m_Layer: 0
   m_Name: GreenMonster
   m_TagString: Untagged
@@ -187,7 +188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   roamChangeDirFloat: 2
   attackRange: 5
-  enemyType: {fileID: 0}
+  enemyType: {fileID: 6134921453686089157}
   attackCooldown: 2
   stopMovingWhileAttacking: 0
 --- !u!95 &8420558666126289028
@@ -269,3 +270,25 @@ MonoBehaviour:
   goldCoin: {fileID: 466242026746255751, guid: b2025e47e73adb1419c9d1a3014c39c5, type: 3}
   healthGlobe: {fileID: 466242026746255751, guid: b0b4607dec07ed043a1799e975f3114a, type: 3}
   staminaGlobe: {fileID: 466242026746255751, guid: 6e5475d69fe661e4f8d3782fc6e416a6, type: 3}
+--- !u!114 &6134921453686089157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451927648463374515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914d7e5a51e0724469c981f23c9e59ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 2234964246082985542, guid: f0271ad4ee4fbbf4da11b36854ac1b97, type: 3}
+  bulletMoveSpeed: 2
+  burstCount: 5
+  projectilesPerBurst: 3
+  angleSpread: 56.1
+  startingDistance: 0.3
+  timeBetweenBursts: 1
+  restTime: 0.1
+  stagger: 0
+  oscillate: 0

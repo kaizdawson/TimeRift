@@ -37,9 +37,35 @@ public class EnemyHealth : MonoBehaviour
     {
         if (currentHealth <= 0)
         {
-            Instantiate(deathVGXPrefab, transform.position,Quaternion.identity);
-            GetComponent<PickUpSpawner>().DropItems();
-            Destroy(gameObject);
+           
+            if (TryGetComponent<Boss>(out Boss boss))
+            {
+                Animator animator = GetComponent<Animator>();
+                if (animator != null)
+                {
+                    flash.ResetMaterial();           
+                    animator.SetTrigger("Die");
+                }
+
+                
+                StartCoroutine(DelayBeforeDestroy());
+            }
+            else
+            {
+               
+                Instantiate(deathVGXPrefab, transform.position, Quaternion.identity);
+                GetComponent<PickUpSpawner>().DropItems();
+                Destroy(gameObject);
+            }
         }
     }
+    private IEnumerator DelayBeforeDestroy()
+    {
+        yield return new WaitForSeconds(2f); 
+        Instantiate(deathVGXPrefab, transform.position, Quaternion.identity);
+        GetComponent<PickUpSpawner>().DropItems();
+        Destroy(gameObject);
+    }
+
+
 }

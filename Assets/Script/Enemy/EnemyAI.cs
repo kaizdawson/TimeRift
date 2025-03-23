@@ -78,26 +78,28 @@ public class EnemyAI : MonoBehaviour
         if (Vector2.Distance(transform.position, PlayerController.Instance.transform.position) > attackRange)
         {
             state = State.Roaming;
+            return;
         }
 
-        if (attackRange != 0 && canAttack)
+        // ✅ Đảm bảo dừng di chuyển ngay khi đang tấn công
+        if (stopMovingWhileAttacking)
         {
+            enemyPathfinding.StopMoving();
+        }
+        else
+        {
+            enemyPathfinding.MoveTo(roamPosition);
+        }
 
+        // Chỉ xử lý attack khi có thể
+        if (canAttack)
+        {
             canAttack = false;
             (enemyType as IEnemy).Attack();
-
-            if (stopMovingWhileAttacking)
-            {
-                enemyPathfinding.StopMoving();
-            }
-            else
-            {
-                enemyPathfinding.MoveTo(roamPosition);
-            }
-
             StartCoroutine(AttackCooldownRoutine());
         }
     }
+
 
     private IEnumerator AttackCooldownRoutine()
     {

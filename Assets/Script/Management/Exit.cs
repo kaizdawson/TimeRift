@@ -11,7 +11,7 @@ public class Exit : MonoBehaviour
     private float waitToLoadTime = 1f;
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.GetComponent<PlayerController>())
+        if (other.TryGetComponent<PlayerController>(out var player))
         {
             SceneManagement.Instance.SetTransitionName(sceneTransitionName);
             UIFade.Instance.FadeToBlack();
@@ -19,13 +19,11 @@ public class Exit : MonoBehaviour
         }
     }
 
+
     private IEnumerator LoadSceneMode()
     {
-        while (waitToLoadTime >= 0)
-        {
-            waitToLoadTime -= Time.deltaTime;
-            yield return null;
-        }
+        yield return new WaitForSeconds(waitToLoadTime);
         SceneManager.LoadScene(sceneToLoad);
     }
+
 }
