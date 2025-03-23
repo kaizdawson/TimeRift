@@ -9,6 +9,8 @@ public class EnemyHealth : MonoBehaviour
     private int currentHealth;
     private Knockback Knockback;
     private Flash flash;
+    private bool isDead = false;
+    public bool IsDead => isDead;
 
     private void Awake()
     {
@@ -22,9 +24,11 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        if (isDead) return;
         currentHealth -= damage;
         Knockback.GetKnockedBack(PlayerController.Instance.transform, knockBackThrust);
-        StartCoroutine(flash.FlashRoutine());
+        if (!isDead && !TryGetComponent<Boss>(out _))
+            StartCoroutine(flash.FlashRoutine());
         StartCoroutine(CheckDetectDeathRoutine());
     }
 
@@ -35,6 +39,8 @@ public class EnemyHealth : MonoBehaviour
     }
     public void DetectDeath()
     {
+
+        if (isDead) return;
         if (currentHealth <= 0)
         {
            
@@ -43,7 +49,7 @@ public class EnemyHealth : MonoBehaviour
                 Animator animator = GetComponent<Animator>();
                 if (animator != null)
                 {
-                    flash.ResetMaterial();           
+                    flash.ResetMaterial();
                     animator.SetTrigger("Die");
                 }
 
