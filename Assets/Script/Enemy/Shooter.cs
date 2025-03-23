@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,9 +14,19 @@ public class Shooter : MonoBehaviour, IEnemy
     [SerializeField] private float restTime = 1f;
     [SerializeField] private bool stagger;
     [SerializeField] private bool oscillate;
+    [SerializeField] private AudioClip shootSound;
+    private AudioSource audioSource;
 
 
     private bool isShooting = false;
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+    }
 
     private void OnValidate()
     {
@@ -75,8 +85,11 @@ public class Shooter : MonoBehaviour, IEnemy
                 Vector2 pos = FindBulletSpawnPos(currentAngle);
 
                 GameObject newBullet = Instantiate(bulletPrefab, pos, Quaternion.identity);
+
                 newBullet.transform.right = newBullet.transform.position - transform.position;
 
+                audioSource.PlayOneShot(shootSound, 0.5f);
+                StartCoroutine(StopSoundAfterTime(1f));
 
                 if (newBullet.TryGetComponent(out Projectile projectile))
                 {
@@ -95,6 +108,11 @@ public class Shooter : MonoBehaviour, IEnemy
 
         yield return new WaitForSeconds(restTime);
         isShooting = false;
+    }
+    private IEnumerator StopSoundAfterTime(float duration)
+    {
+        yield return new WaitForSeconds(duration);
+        audioSource.Stop();
     }
 
     private void TargetConeOfInfluence(out float startAngle, out float currentAngle, out float angleStep, out float endAngle)

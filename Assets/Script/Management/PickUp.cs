@@ -1,10 +1,12 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.ShaderGraph.Internal;
 using UnityEngine;
 
 public class Pickup : MonoBehaviour
 {
+    [SerializeField] private AudioClip pickUpSound;
+    private AudioSource audioSource;
     private enum PickUpType
     {
         GoldCoin,
@@ -19,6 +21,7 @@ public class Pickup : MonoBehaviour
     [SerializeField] private AnimationCurve animCurve;
     [SerializeField] private float heightY = 1.5f;
     [SerializeField] private float popDuration = 1f;
+    private bool isPickedUp = false;
 
 
 
@@ -28,6 +31,7 @@ public class Pickup : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -58,14 +62,29 @@ public class Pickup : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
+        if (isPickedUp) return;
         if (other.gameObject.GetComponent<PlayerController>())
         {
+            isPickedUp = true;
             DetectPickupType();
-            Destroy(gameObject);
+
+            if (audioSource != null && pickUpSound != null)
+            {
+                audioSource.PlayOneShot(pickUpSound); // Phát âm thanh khi nhặt
+                StartCoroutine(DestroyAfterSound(pickUpSound.length)); // Chờ nhạc xong mới hủy
+            }
+            else
+            {
+                Destroy(gameObject); // Nếu không có âm thanh, hủy ngay
+            }
         }
     }
 
-
+    private IEnumerator DestroyAfterSound(float delay)
+    {
+        yield return new WaitForSeconds(delay); // Chờ nhạc phát xong
+        Destroy(gameObject);
+    }
     private IEnumerator AnimCurveSpawnRoutine()
     {
         Vector2 startPoint=transform.position;

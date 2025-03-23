@@ -8,13 +8,15 @@ public class Projectile : MonoBehaviour
     [SerializeField] private GameObject particleOnHitPrefabVFX;
     [SerializeField] private bool isEnemyProjectile = false;
     [SerializeField] private float projectileRange = 10f;
+   
 
     private Vector3 startPosition;
-
+   
     private void Start()
     {
         startPosition = transform.position;
     }
+   
 
     private void Update()
     {
@@ -45,16 +47,19 @@ public class Projectile : MonoBehaviour
             {
                 player?.TakeDamage(1, transform);
                 enemyHealth?.TakeDamage(1);
+              
                 Instantiate(particleOnHitPrefabVFX, transform.position, transform.rotation);
                 Destroy(gameObject);
             }
             else if (!other.isTrigger && indestructible)
             {
+               
                 Instantiate(particleOnHitPrefabVFX, transform.position, transform.rotation);
                 Destroy(gameObject);
             }
         }
     }
+   
 
     private void DetectFireDistance()
     {

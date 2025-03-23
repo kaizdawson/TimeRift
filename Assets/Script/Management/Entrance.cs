@@ -5,6 +5,8 @@ using UnityEngine;
 public class Entrance : MonoBehaviour
 {
     [SerializeField] private string transitionName;
+    [SerializeField] private AudioClip entranceSound;
+    private AudioSource audioSource;
 
     private void OnEnable()
     {
@@ -33,10 +35,20 @@ public class Entrance : MonoBehaviour
             {
                 UIFade.Instance.FadeToClear();
             }
+            PlayEntranceSound();
         }
         else
         {
             Debug.LogWarning("[Entrance] Transition name does not match. Player not moved.");
         }
     }
+
+    private void PlayEntranceSound()
+    {
+        if (entranceSound != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(entranceSound, 0.7f);
+        }
+    }
+
 }

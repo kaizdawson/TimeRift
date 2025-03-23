@@ -7,16 +7,18 @@ public class Sword : MonoBehaviour, IWeapon
     [SerializeField] private GameObject slashAnimPrefab;
     [SerializeField] private Transform slashAnimSpawnPoint;
     [SerializeField] private WeaponInfo weaponInfo;
+    [SerializeField] private AudioClip swingUpSound;   
+    [SerializeField] private AudioClip swingDownSound;
 
     private Transform weaponCollider;
     private Animator myAnimator;
 
     private GameObject slashAnim;
-
+    private AudioSource audioSource;
     private void Awake()
     {
         myAnimator = GetComponent<Animator>();
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -41,7 +43,7 @@ public class Sword : MonoBehaviour, IWeapon
         
             myAnimator.SetTrigger("Attack");
             weaponCollider.gameObject.SetActive(true);
-
+   
             slashAnim = Instantiate(slashAnimPrefab, slashAnimSpawnPoint.position, Quaternion.identity);
             slashAnim.transform.parent = this.transform.parent;
         
@@ -63,6 +65,7 @@ public class Sword : MonoBehaviour, IWeapon
                 slashAnim.GetComponent<SpriteRenderer>().flipX = false;
             }
         }
+        audioSource.PlayOneShot(swingUpSound, 0.3f);
     }
 
 
@@ -74,6 +77,8 @@ public class Sword : MonoBehaviour, IWeapon
         {
             slashAnim.GetComponent<SpriteRenderer>().flipX = false;
         }
+        audioSource.PlayOneShot(swingDownSound, 1f);
+
     }
 
     private void MouseFollowWithOffset()

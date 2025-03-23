@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -10,6 +10,10 @@ public class PlayerHealth : Singleton<PlayerHealth>
     [SerializeField] private int maxHealth = 3;
     [SerializeField] private float knockBackThrustAmount = 10f;
     [SerializeField] private float damageRecoveryTime = 1f;
+    [SerializeField] private AudioClip hitSound;
+    [SerializeField] private AudioClip deathSound;
+
+    private AudioSource audioSource;
 
     private Slider healthSlider;
     private int currentHealth;
@@ -26,6 +30,11 @@ public class PlayerHealth : Singleton<PlayerHealth>
 
         flash = GetComponent<Flash>();
         knockback = GetComponent<Knockback>();
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
     }
 
     private void Start()
@@ -58,6 +67,10 @@ public class PlayerHealth : Singleton<PlayerHealth>
     public void TakeDamage(int damageAmount, Transform hitTransform)
     {
         if (!canTakeDamage) { return; }
+        if (hitSound != null)
+        {
+            audioSource.PlayOneShot(hitSound, 0.5f); 
+        }
 
         ScreenShakeManager.Instance.ShakeScreen();
         knockback.GetKnockedBack(hitTransform, knockBackThrustAmount);
@@ -77,6 +90,10 @@ public class PlayerHealth : Singleton<PlayerHealth>
             Destroy(ActiveWeapon.Instance.gameObject);
             currentHealth = 0;
             GetComponent<Animator>().SetTrigger(DEATH_HASH);
+            if (deathSound != null)
+            {
+                audioSource.PlayOneShot(deathSound, 0.7f);
+            }
             StartCoroutine(DeathLoadSceneRoutine());
             
         }
@@ -84,7 +101,16 @@ public class PlayerHealth : Singleton<PlayerHealth>
 
     private IEnumerator DeathLoadSceneRoutine()
     {
-        yield return new WaitForSeconds(1f);
+        if (deathSound != null)
+        {
+            audioSource.PlayOneShot(deathSound, 0.5f);
+            yield return new WaitForSeconds(deathSound.length); 
+        }
+        else
+        {
+            yield return new WaitForSeconds(1f); 
+        }
+
         Destroy(gameObject);
         SceneManager.LoadScene(TOWN_TEXT);
     }

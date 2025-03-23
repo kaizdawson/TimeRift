@@ -6,16 +6,20 @@ public class EnemyHealth : MonoBehaviour
     [SerializeField] private int startingHealth = 3;
     [SerializeField] private GameObject deathVGXPrefab;
     [SerializeField] private float knockBackThrust = 15f;
+    [SerializeField] private AudioClip deathSound;
+    private AudioSource audioSource;
+
     private int currentHealth;
     private Knockback Knockback;
     private Flash flash;
     private bool isDead = false;
     public bool IsDead => isDead;
-
+    public event System.Action OnDeath;
     private void Awake()
     {
         flash = GetComponent<Flash>();
         Knockback = GetComponent<Knockback>();
+        audioSource = GetComponent<AudioSource>();
     }
     private void Start()
     {
@@ -43,7 +47,7 @@ public class EnemyHealth : MonoBehaviour
         if (isDead) return;
         if (currentHealth <= 0)
         {
-           
+            isDead = true;
             if (TryGetComponent<Boss>(out Boss boss))
             {
                 Animator animator = GetComponent<Animator>();
@@ -58,10 +62,16 @@ public class EnemyHealth : MonoBehaviour
             }
             else
             {
-               
                 Instantiate(deathVGXPrefab, transform.position, Quaternion.identity);
                 GetComponent<PickUpSpawner>().DropItems();
-                Destroy(gameObject);
+                if (TryGetComponent<AudioSource>(out _))
+                {
+                    Die();
+                }
+                else
+                {
+                    Destroy(gameObject); 
+                }
             }
         }
     }
@@ -70,8 +80,36 @@ public class EnemyHealth : MonoBehaviour
         yield return new WaitForSeconds(2f); 
         Instantiate(deathVGXPrefab, transform.position, Quaternion.identity);
         GetComponent<PickUpSpawner>().DropItems();
-        Destroy(gameObject);
+        if (TryGetComponent<AudioSource>(out _))
+        {
+            Die();
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
+    private void Die()
+    {
+        OnDeath?.Invoke();
+
+        if (audioSource != null && deathSound != null)
+        {
+            audioSource.PlayOneShot(deathSound);
+            StartCoroutine(DestroyAfterSound(deathSound.length));
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+
+    private IEnumerator DestroyAfterSound(float delay)
+    {
+        yield return new WaitForSeconds(delay); 
+        Destroy(gameObject);
+    }
 
 }

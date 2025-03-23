@@ -278,6 +278,7 @@ MonoBehaviour:
   restTime: 0.1
   stagger: 1
   oscillate: 1
+  shootSound: {fileID: 8300000, guid: 4b735ebadc04f364fb44b02c25491ae6, type: 3}
 --- !u!114 &7738808606238987832
 MonoBehaviour:
   m_ObjectHideFlags: 0

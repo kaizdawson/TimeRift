@@ -7,8 +7,22 @@ public class UIFade : Singleton<UIFade>
 {
     [SerializeField] private Image fadeScreen;
     [SerializeField] private float fadeSpeed = 1f;
+    [SerializeField] private AudioClip fadeSound;
+    private AudioSource audioSource;
 
     private IEnumerator fadeRoutine;
+    protected override void Awake()
+    {
+        base.Awake();
+        DontDestroyOnLoad(gameObject);
+
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+    }
+
 
     public void FadeToBlack()
     {
@@ -16,7 +30,7 @@ public class UIFade : Singleton<UIFade>
         {
             StopCoroutine(fadeRoutine);
         }
-
+        PlayFadeSound();
         fadeRoutine = FadeRoutine(1);
         StartCoroutine(fadeRoutine);
     }
@@ -41,4 +55,13 @@ public class UIFade : Singleton<UIFade>
             yield return null;
         }
     }
+
+    private void PlayFadeSound()
+    {
+        if (fadeSound != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(fadeSound, 0.7f);
+        }
+    }
+
 }

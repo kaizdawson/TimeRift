@@ -4,10 +4,25 @@
 public class Dragon : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
+    [SerializeField] private AudioClip deathSound;
+    private AudioSource audioSource;
+    private EnemyHealth enemyHealth;
 
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        enemyHealth = GetComponent<EnemyHealth>();
+
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
+        if (enemyHealth != null)
+        {
+            enemyHealth.OnDeath += PlayDragonDeathSound;  
+        }
     }
 
     private void Update()
@@ -24,6 +39,23 @@ public class Dragon : MonoBehaviour
         else
         {
             spriteRenderer.flipX = false; 
+        }
+    }
+
+    private void PlayDragonDeathSound()
+    {
+        if (deathSound != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(deathSound);
+        }
+    }
+
+
+    private void OnDestroy()
+    {
+        if (enemyHealth != null)
+        {
+            enemyHealth.OnDeath -= PlayDragonDeathSound;  
         }
     }
 }

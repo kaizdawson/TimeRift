@@ -10,6 +10,9 @@ public class PlayerController : Singleton<PlayerController>
     [SerializeField] private float dashSpeed = 4f;
     [SerializeField] private TrailRenderer myTraiRenderer;
     [SerializeField] private Transform weaponCollider;
+    [SerializeField] private AudioClip dashSound;
+    private AudioSource audioSource;
+
 
     private PlayerControls playerControls;
     private Vector2 movement;
@@ -30,6 +33,12 @@ public class PlayerController : Singleton<PlayerController>
         myAnimator = GetComponent<Animator>();
         mySpriteRender = GetComponent<SpriteRenderer>();
         knockback = GetComponent<Knockback>();
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
     }
     private void Start()
     {
@@ -111,6 +120,7 @@ public class PlayerController : Singleton<PlayerController>
             isDashing = true;
             moveSpeed *= dashSpeed;
             myTraiRenderer.emitting = true;
+            audioSource.PlayOneShot(dashSound, 0.5f);
             StartCoroutine(EndDashRoutine());
         }
     }
