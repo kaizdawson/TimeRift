@@ -46,7 +46,7 @@ public class Dragon : MonoBehaviour
     {
         if (deathSound != null && audioSource != null)
         {
-            audioSource.PlayOneShot(deathSound);
+            audioSource.PlayOneShot(deathSound,2f);
         }
     }
 

@@ -316,6 +316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2.5
   attackRange: 3
+  footstepClip: {fileID: 8300000, guid: 11529b4d1b252a342aa1c2f2aa712b6a, type: 3}
 --- !u!1102 &8721505167676408737
 AnimatorState:
   serializedVersion: 6

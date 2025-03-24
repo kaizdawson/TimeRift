@@ -2,6 +2,7 @@
 
 public class BossDetectionTrigger : MonoBehaviour
 {
+    public AudioClip bossMusic;
     private Animator bossAnimator;
     private bool hasTriggered = false;
 
@@ -17,6 +18,7 @@ public class BossDetectionTrigger : MonoBehaviour
 
         if (collision.CompareTag("Player"))
         {
+            AudioManager.Instance.PlayMusicWithFade(bossMusic, 1.5f);
             bossAnimator.SetTrigger("Intro");
             hasTriggered = true;
         }

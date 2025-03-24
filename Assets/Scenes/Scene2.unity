@@ -497,85 +497,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 82323260}
   m_CullTransparentMesh: 1
---- !u!1 &121195885
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 121195888}
-  - component: {fileID: 121195887}
-  - component: {fileID: 121195886}
-  m_Layer: 0
-  m_Name: EventSystem
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &121195886
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 121195885}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SendPointerHoverToParent: 1
-  m_MoveRepeatDelay: 0.5
-  m_MoveRepeatRate: 0.1
-  m_XRTrackingOrigin: {fileID: 0}
-  m_ActionsAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_PointAction: {fileID: -1654692200621890270, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_MoveAction: {fileID: -8784545083839296357, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_SubmitAction: {fileID: 392368643174621059, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_CancelAction: {fileID: 7727032971491509709, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_LeftClickAction: {fileID: 3001919216989983466, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_MiddleClickAction: {fileID: -2185481485913320682, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_RightClickAction: {fileID: -4090225696740746782, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_ScrollWheelAction: {fileID: 6240969308177333660, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_TrackedDevicePositionAction: {fileID: 6564999863303420839, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_TrackedDeviceOrientationAction: {fileID: 7970375526676320489, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
-  m_DeselectOnBackgroundClick: 1
-  m_PointerBehavior: 0
-  m_CursorLockBehavior: 0
-  m_ScrollDeltaPerTick: 6
---- !u!114 &121195887
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 121195885}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
---- !u!4 &121195888
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 121195885}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &136351152
 GameObject:
   m_ObjectHideFlags: 0
@@ -608,6 +529,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: Scene1
   sceneTransitionName: E1Entry
+  exitSound: {fileID: 0}
 --- !u!61 &136351154
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1578,6 +1500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: Scene4
   sceneTransitionName: EEntryDragon
+  exitSound: {fileID: 0}
 --- !u!61 &457823926
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1832,6 +1755,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transitionName: BEntry
+  entranceSound: {fileID: 0}
 --- !u!4 &557376042 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8131167646058978005, guid: 6ad9c797d4efb0742902992c303f205a, type: 3}
@@ -20616,7 +20540,7 @@ Tilemap:
       - {fileID: -1769632801, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1595089380, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1525918319, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
-      m_AnimationSpeed: 14.421651
+      m_AnimationSpeed: 14.959411
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 20, y: -12, z: 0}
@@ -20633,7 +20557,7 @@ Tilemap:
       - {fileID: -1769632801, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1595089380, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1525918319, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
-      m_AnimationSpeed: 13.868685
+      m_AnimationSpeed: 12.387314
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 5, y: -11, z: 0}
@@ -20650,7 +20574,7 @@ Tilemap:
       - {fileID: -1769632801, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1595089380, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1525918319, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
-      m_AnimationSpeed: 15.339456
+      m_AnimationSpeed: 12.549628
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 8, y: -10, z: 0}
@@ -20667,7 +20591,7 @@ Tilemap:
       - {fileID: -1769632801, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1595089380, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1525918319, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
-      m_AnimationSpeed: 14.687828
+      m_AnimationSpeed: 13.35521
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 16, y: -10, z: 0}
@@ -20684,7 +20608,7 @@ Tilemap:
       - {fileID: -1769632801, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1595089380, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1525918319, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
-      m_AnimationSpeed: 13.28427
+      m_AnimationSpeed: 14.792808
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 12, y: -9, z: 0}
@@ -20701,7 +20625,7 @@ Tilemap:
       - {fileID: -1769632801, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1595089380, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
       - {fileID: 1525918319, guid: ea0578e644fa90d4e809bd0ef3ab01cc, type: 3}
-      m_AnimationSpeed: 14.051441
+      m_AnimationSpeed: 12.391928
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -33680,6 +33604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transitionName: BEntryDragon
+  entranceSound: {fileID: 0}
 --- !u!1001 &1717665754
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39433,6 +39358,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fadeScreen: {fileID: 2180142948994412986}
   fadeSpeed: 1
+  fadeSound: {fileID: 0}
 --- !u!4 &7712463142186710872
 Transform:
   m_ObjectHideFlags: 0
@@ -39820,7 +39746,6 @@ SceneRoots:
   - {fileID: 7712463142186710872}
   - {fileID: 2047492819}
   - {fileID: 896850677355601639}
-  - {fileID: 121195888}
   - {fileID: 1585729296}
   - {fileID: 1667879315}
   - {fileID: 1099558090}

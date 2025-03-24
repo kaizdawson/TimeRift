@@ -104,16 +104,18 @@ public class PlayerHealth : Singleton<PlayerHealth>
         if (deathSound != null)
         {
             audioSource.PlayOneShot(deathSound, 0.5f);
-            yield return new WaitForSeconds(deathSound.length); 
+            yield return new WaitForSeconds(deathSound.length);
         }
         else
         {
-            yield return new WaitForSeconds(1f); 
+            yield return new WaitForSeconds(1f);
         }
 
-        Destroy(gameObject);
-        SceneManager.LoadScene(TOWN_TEXT);
+        // Không destroy và không load scene tại đây
+        // Gọi hàm xử lý hiển thị GameOver UI
+        OnDeathAnimationEnd();
     }
+
 
     private IEnumerator DamageRecoveryRoutine()
     {
@@ -131,4 +133,48 @@ public class PlayerHealth : Singleton<PlayerHealth>
         healthSlider.maxValue = maxHealth;
         healthSlider.value = currentHealth;
     }
+    public void OnDeathAnimationEnd()
+    {
+        Debug.Log(">> [DEBUG] OnDeathAnimationEnd called");
+
+        if (GameOver.Instance != null)
+        {
+            GameOver.Instance.ShowUI();
+        }
+        else
+        {
+            Debug.LogWarning(">> GameOver.Instance is NULL");
+        }
+    }
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        if (scene.name == "Scene0")
+        {
+            isDead = false;
+            currentHealth = maxHealth;
+            canTakeDamage = true;
+
+            if (healthSlider == null)
+            {
+                healthSlider = GameObject.Find(HEALTH_SLIDER_TEXT).GetComponent<Slider>();
+            }
+
+            UpdateHealthSlider();
+        }
+    }
+
+
+
+
 }

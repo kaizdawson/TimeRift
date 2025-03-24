@@ -5,7 +5,16 @@ public class Boss : MonoBehaviour
     [SerializeField] private GameObject hitbox_Slash;
     public Transform player;
     public bool isFlipped = false;
+    public AudioClip attackClip;
+    private AudioSource audioSource;
+    public AudioClip footstepClip;
+    public AudioClip DeathClip;
+    public AudioClip IntroClip;
 
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
     public void LookAtPlayer()
     {
         Vector3 flipped = transform.localScale;
@@ -44,4 +53,34 @@ public class Boss : MonoBehaviour
     {
         hitbox_Slash.SetActive(false);
     }
+
+    public void PlayAttackSound()
+    {
+        if (attackClip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(attackClip);
+        }
+    }
+    public void PlayFootstepSound()
+    {
+        if (footstepClip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(footstepClip);
+        }
+    }
+    public void PlayDeathSound()
+    {
+        if (footstepClip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(DeathClip);
+        }
+    }
+    public void PlayIntroSound()
+    {
+        if (footstepClip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(IntroClip);
+        }
+    }
+
 }
