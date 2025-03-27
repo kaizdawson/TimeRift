@@ -1,21 +1,25 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
+    public AudioSource audioSource;
+    public AudioClip clickSound;
+
     public static GameOver Instance { get; private set; }
 
     private void Awake()
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(gameObject); // Hủy nếu đã có một GameOver tồn tại
+            Destroy(gameObject);
             return;
         }
 
         Instance = this;
-        DontDestroyOnLoad(gameObject); // Không bị mất khi chuyển scene
-        gameObject.SetActive(false);   // Ẩn lúc đầu
+        DontDestroyOnLoad(gameObject); 
+        gameObject.SetActive(false);   
     }
 
     public void ShowUI()
@@ -41,18 +45,50 @@ public class GameOver : MonoBehaviour
     public void LoadMainMenu()
     {
         Time.timeScale = 1f;
-        Destroy(gameObject);
-        SceneManager.LoadScene("MainMenu"); 
+        StartCoroutine(PlaySoundThenLoadMainMenu());
     }
 
     public void QuitGame()
     {
+        StartCoroutine(PlaySoundThenQuit());
+    }
+
+
+    IEnumerator PlaySoundThenLoadMainMenu()
+    {
+        if (audioSource != null && clickSound != null)
+        {
+            audioSource.PlayOneShot(clickSound);
+            yield return new WaitForSecondsRealtime(clickSound.length);
+        }
+
+        Time.timeScale = 1f;
+
+        // Dọn sạch các singleton hoặc DontDestroyOnLoad
+        Destroy(GameObject.Find("Player"));
+        Destroy(GameObject.Find("AudioManager"));
+        Destroy(GameObject.Find("GameOver"));
+        Destroy(GameObject.Find("SceneManagement"));
+        Destroy(GameObject.Find("EventSystem")); // nếu cần
+
+        // Load lại scene đầu tiên như vừa mở game
+        SceneManager.LoadScene(0);
+    }
+
+
+    IEnumerator PlaySoundThenQuit()
+    {
+        if (audioSource != null && clickSound != null)
+        {
+            audioSource.PlayOneShot(clickSound);
+            yield return new WaitForSecondsRealtime(clickSound.length);
+        }
+
         Application.Quit();
 
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
     }
-
 
 }

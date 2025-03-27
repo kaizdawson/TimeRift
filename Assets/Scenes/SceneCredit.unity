@@ -465,7 +465,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scrollSpeed: 40
-  timeToReturn: 30
+  timeToReturn: 70
 --- !u!224 &5366309777241832308
 RectTransform:
   m_ObjectHideFlags: 0
@@ -613,14 +613,14 @@ MonoBehaviour:
     \r\nB\xF9i \u0110\u1EE9c Tri\u1EC7u \u2013 SE170197\r\n\r\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\r\n\r\nSPECIAL
     THANKS TO  \r\nC\xE1c gi\u1EA3ng vi\xEAn FPT Polytechnic  \r\nGia \u0111\xECnh
     v\xE0 b\u1EA1n b\xE8 \u0111\xE3 \u1EE7ng h\u1ED9 ch\xFAng t\xF4i\r\n\r\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\r\n\r\nS\u1EA2N
-    PH\u1EA8M \u0110\u01AF\u1EE2C TH\u1EF0C HI\u1EC6N TRONG H\u1ECCC K\u1EF2 XYZ 
-    \r\nFPT POLYTECHNIC \u2013 2025\r\n\r\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\r\n\r\n\"Kh\xF4ng
+    PH\u1EA8M \u0110\u01AF\u1EE2C TH\u1EF0C HI\u1EC6N TRONG H\u1ECCC K\u1EF2 8 \r\nFPT
+    UNIVERSITY \u2013 2025\r\n\r\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\r\n\r\n\"Kh\xF4ng
     ph\u1EA3i ai c\u0169ng l\xE0m \u0111\u01B0\u1EE3c game.  \r\nV\xE0 c\xE0ng \xEDt
     ng\u01B0\u1EDDi bi\u1EBFn n\xF3 th\xE0nh m\u1ED9t c\xE2u chuy\u1EC7n.\"\r\n\r\nH\u1EB8N
     G\u1EB6P L\u1EA0I TRONG PHI\xCAN B\u1EA2N TI\u1EBEP THEO...\r\n\r\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1265cdf7c16f9094cb5b65b821bac05d, type: 2}
+  m_sharedMaterial: {fileID: -3493710822603156629, guid: 1265cdf7c16f9094cb5b65b821bac05d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

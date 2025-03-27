@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 081bfb535df76494e98b5d18627a1fae, type: 3}
+  m_Name: Girl3
+  m_EditorClassIdentifier: 
+  npcName: "C\xF4ng Ch\xFAa"
+  npcPortrait: {fileID: -4272707161404238032, guid: 219740a5a80c46e47aff932b84634a40, type: 3}
+  dialogueLines:
+  - "Ta s\u1EBD gi\xFAp ch\xE0ng m\u1EDF c\u1ED5ng v\u1EDBi 1 \u0111i\u1EC1u ki\u1EC7n!"
+  - "Xin ch\xE0ng h\xE3y gi\xFAp ta ti\xEAu di\u1EC7t R\u1ED3ng \u1EDF ph\xEDa \u0110\xF4ng
+    khu r\u1EEBng."
+  - "\u0110\u1EC3 ta c\xF3 th\u1EC3 tr\u1EDF v\u1EC1 v\u1EDBi v\u01B0\u01A1ng qu\u1ED1c
+    c\u1EE7a ta."
+  - "Ta s\u1EBD h\u1EADu t\u1EA1 cho ch\xE0ng b\u1EB1ng c\u1EA3 thanh xu\xE2n n\xE0y."
+  - "D\u1ECB nha !!!"
+  autoProgressLines: 0100000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: c531cfb40a6e6494d920a12a3e48e238, type: 3}
+  voicePitch: 1

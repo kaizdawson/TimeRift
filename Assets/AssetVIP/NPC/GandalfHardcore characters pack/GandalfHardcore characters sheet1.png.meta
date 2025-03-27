@@ -484,7 +484,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -498,7 +498,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -519,10 +519,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -550,10 +550,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 895
-        width: 30
-        height: 44
+        x: 0
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 895
-        width: 30
-        height: 44
+        x: 64
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_2
       rect:
         serializedVersion: 2
-        x: 145
-        y: 895
-        width: 30
-        height: 45
+        x: 128
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_3
       rect:
         serializedVersion: 2
-        x: 209
-        y: 895
-        width: 30
-        height: 45
+        x: 192
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_4
       rect:
         serializedVersion: 2
-        x: 273
-        y: 895
-        width: 30
-        height: 44
+        x: 256
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_5
       rect:
         serializedVersion: 2
-        x: 337
-        y: 895
-        width: 30
-        height: 41
+        x: 320
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_6
       rect:
         serializedVersion: 2
-        x: 401
-        y: 895
-        width: 29
-        height: 41
+        x: 384
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_7
       rect:
         serializedVersion: 2
-        x: 465
-        y: 895
-        width: 29
-        height: 42
+        x: 448
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,10 +726,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_8
       rect:
         serializedVersion: 2
-        x: 529
-        y: 895
-        width: 29
-        height: 42
+        x: 512
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,10 +748,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_9
       rect:
         serializedVersion: 2
-        x: 593
-        y: 895
-        width: 30
-        height: 41
+        x: 576
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,10 +770,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_10
       rect:
         serializedVersion: 2
-        x: 20
-        y: 831
-        width: 23
-        height: 43
+        x: 0
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -792,10 +792,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_11
       rect:
         serializedVersion: 2
-        x: 84
-        y: 831
-        width: 23
-        height: 43
+        x: 64
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -814,10 +814,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_12
       rect:
         serializedVersion: 2
-        x: 148
-        y: 831
-        width: 23
-        height: 44
+        x: 128
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,10 +836,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_13
       rect:
         serializedVersion: 2
-        x: 212
-        y: 831
-        width: 23
-        height: 44
+        x: 192
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -858,10 +858,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_14
       rect:
         serializedVersion: 2
-        x: 276
-        y: 831
-        width: 23
-        height: 43
+        x: 256
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,10 +880,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_15
       rect:
         serializedVersion: 2
-        x: 343
-        y: 831
-        width: 18
-        height: 43
+        x: 320
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -902,10 +902,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_16
       rect:
         serializedVersion: 2
-        x: 407
-        y: 831
-        width: 18
-        height: 43
+        x: 384
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -924,10 +924,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_17
       rect:
         serializedVersion: 2
-        x: 471
-        y: 831
-        width: 18
-        height: 44
+        x: 448
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -946,10 +946,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_18
       rect:
         serializedVersion: 2
-        x: 535
-        y: 831
-        width: 18
-        height: 44
+        x: 512
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -968,10 +968,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_19
       rect:
         serializedVersion: 2
-        x: 599
-        y: 831
-        width: 18
-        height: 43
+        x: 576
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -990,10 +990,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_20
       rect:
         serializedVersion: 2
-        x: 20
-        y: 767
-        width: 23
-        height: 37
+        x: 0
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1012,10 +1012,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_21
       rect:
         serializedVersion: 2
-        x: 84
-        y: 767
-        width: 23
-        height: 37
+        x: 64
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1034,10 +1034,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_22
       rect:
         serializedVersion: 2
-        x: 148
-        y: 767
-        width: 23
-        height: 38
+        x: 128
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,10 +1056,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_23
       rect:
         serializedVersion: 2
-        x: 212
-        y: 767
-        width: 23
-        height: 38
+        x: 192
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,10 +1078,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_24
       rect:
         serializedVersion: 2
-        x: 276
-        y: 767
-        width: 23
-        height: 37
+        x: 256
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_25
       rect:
         serializedVersion: 2
-        x: 340
-        y: 767
-        width: 23
-        height: 30
+        x: 320
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1122,10 +1122,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_26
       rect:
         serializedVersion: 2
-        x: 404
-        y: 767
-        width: 23
-        height: 30
+        x: 384
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1144,10 +1144,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_27
       rect:
         serializedVersion: 2
-        x: 468
-        y: 767
-        width: 23
-        height: 31
+        x: 448
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1166,10 +1166,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_28
       rect:
         serializedVersion: 2
-        x: 532
-        y: 767
-        width: 23
-        height: 31
+        x: 512
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1188,10 +1188,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_29
       rect:
         serializedVersion: 2
-        x: 596
-        y: 767
-        width: 23
-        height: 30
+        x: 576
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,10 +1210,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_30
       rect:
         serializedVersion: 2
-        x: 18
-        y: 703
-        width: 26
-        height: 45
+        x: 0
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1232,10 +1232,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_31
       rect:
         serializedVersion: 2
-        x: 82
-        y: 703
-        width: 26
-        height: 45
+        x: 64
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1254,10 +1254,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_32
       rect:
         serializedVersion: 2
-        x: 146
-        y: 703
-        width: 26
-        height: 46
+        x: 128
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1276,10 +1276,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_33
       rect:
         serializedVersion: 2
-        x: 210
-        y: 703
-        width: 26
-        height: 46
+        x: 192
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1298,10 +1298,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_34
       rect:
         serializedVersion: 2
-        x: 274
-        y: 703
-        width: 26
-        height: 45
+        x: 256
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1320,10 +1320,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_35
       rect:
         serializedVersion: 2
-        x: 333
-        y: 703
-        width: 39
-        height: 21
+        x: 320
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,10 +1342,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_36
       rect:
         serializedVersion: 2
-        x: 397
-        y: 703
-        width: 39
-        height: 21
+        x: 384
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1364,10 +1364,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_37
       rect:
         serializedVersion: 2
-        x: 460
-        y: 703
-        width: 40
-        height: 21
+        x: 448
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1386,10 +1386,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_38
       rect:
         serializedVersion: 2
-        x: 524
-        y: 703
-        width: 40
-        height: 21
+        x: 512
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1408,10 +1408,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_39
       rect:
         serializedVersion: 2
-        x: 588
-        y: 703
-        width: 40
-        height: 21
+        x: 576
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1430,10 +1430,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_40
       rect:
         serializedVersion: 2
-        x: 14
-        y: 639
-        width: 35
-        height: 22
+        x: 0
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1452,10 +1452,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_41
       rect:
         serializedVersion: 2
-        x: 78
-        y: 639
-        width: 35
-        height: 22
+        x: 64
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1474,10 +1474,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_42
       rect:
         serializedVersion: 2
-        x: 142
-        y: 639
-        width: 35
-        height: 22
+        x: 128
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1496,10 +1496,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_43
       rect:
         serializedVersion: 2
-        x: 206
-        y: 639
-        width: 35
-        height: 22
+        x: 192
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,10 +1518,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_44
       rect:
         serializedVersion: 2
-        x: 270
-        y: 639
-        width: 35
-        height: 22
+        x: 256
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1540,10 +1540,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_45
       rect:
         serializedVersion: 2
-        x: 341
-        y: 639
-        width: 22
-        height: 47
+        x: 320
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_46
       rect:
         serializedVersion: 2
-        x: 405
-        y: 639
-        width: 22
-        height: 47
+        x: 384
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1584,10 +1584,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_47
       rect:
         serializedVersion: 2
-        x: 469
-        y: 639
-        width: 22
-        height: 48
+        x: 448
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1606,10 +1606,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_48
       rect:
         serializedVersion: 2
-        x: 533
-        y: 639
-        width: 22
-        height: 48
+        x: 512
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1628,10 +1628,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_49
       rect:
         serializedVersion: 2
-        x: 597
-        y: 639
-        width: 22
-        height: 47
+        x: 576
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1650,10 +1650,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_50
       rect:
         serializedVersion: 2
-        x: 22
-        y: 575
-        width: 18
-        height: 46
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1672,10 +1672,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_51
       rect:
         serializedVersion: 2
-        x: 86
-        y: 575
-        width: 18
-        height: 46
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1694,10 +1694,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_52
       rect:
         serializedVersion: 2
-        x: 150
-        y: 575
-        width: 18
-        height: 47
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1716,10 +1716,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_53
       rect:
         serializedVersion: 2
-        x: 214
-        y: 575
-        width: 18
-        height: 47
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1738,10 +1738,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_54
       rect:
         serializedVersion: 2
-        x: 278
-        y: 575
-        width: 18
-        height: 46
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1760,10 +1760,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_55
       rect:
         serializedVersion: 2
-        x: 342
-        y: 575
-        width: 19
-        height: 45
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1782,10 +1782,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_56
       rect:
         serializedVersion: 2
-        x: 406
-        y: 575
-        width: 19
-        height: 45
+        x: 384
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,10 +1804,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_57
       rect:
         serializedVersion: 2
-        x: 471
-        y: 575
-        width: 18
-        height: 46
+        x: 448
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1826,10 +1826,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_58
       rect:
         serializedVersion: 2
-        x: 534
-        y: 575
-        width: 19
-        height: 46
+        x: 512
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1848,10 +1848,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_59
       rect:
         serializedVersion: 2
-        x: 598
-        y: 575
-        width: 19
-        height: 45
+        x: 576
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1870,10 +1870,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_60
       rect:
         serializedVersion: 2
-        x: 20
-        y: 511
-        width: 22
-        height: 20
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1892,10 +1892,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_61
       rect:
         serializedVersion: 2
-        x: 84
-        y: 511
-        width: 22
-        height: 20
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1914,10 +1914,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_62
       rect:
         serializedVersion: 2
-        x: 147
-        y: 511
-        width: 23
-        height: 19
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1936,10 +1936,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_63
       rect:
         serializedVersion: 2
-        x: 212
-        y: 511
-        width: 22
-        height: 19
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1958,10 +1958,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_64
       rect:
         serializedVersion: 2
-        x: 276
-        y: 511
-        width: 22
-        height: 20
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,10 +1980,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_65
       rect:
         serializedVersion: 2
-        x: 337
-        y: 511
-        width: 27
-        height: 25
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2002,10 +2002,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_66
       rect:
         serializedVersion: 2
-        x: 401
-        y: 511
-        width: 27
-        height: 25
+        x: 384
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,10 +2024,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_67
       rect:
         serializedVersion: 2
-        x: 465
-        y: 511
-        width: 27
-        height: 25
+        x: 448
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2046,10 +2046,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_68
       rect:
         serializedVersion: 2
-        x: 529
-        y: 511
-        width: 27
-        height: 24
+        x: 512
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2068,10 +2068,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_69
       rect:
         serializedVersion: 2
-        x: 593
-        y: 511
-        width: 27
-        height: 24
+        x: 576
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2090,10 +2090,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_70
       rect:
         serializedVersion: 2
-        x: 21
-        y: 447
-        width: 21
-        height: 20
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2112,10 +2112,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_71
       rect:
         serializedVersion: 2
-        x: 85
-        y: 447
-        width: 21
-        height: 20
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2134,10 +2134,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_72
       rect:
         serializedVersion: 2
-        x: 149
-        y: 447
-        width: 21
-        height: 19
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2156,10 +2156,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_73
       rect:
         serializedVersion: 2
-        x: 213
-        y: 447
-        width: 21
-        height: 19
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2178,10 +2178,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_74
       rect:
         serializedVersion: 2
-        x: 277
-        y: 447
-        width: 21
-        height: 20
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2200,10 +2200,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_75
       rect:
         serializedVersion: 2
-        x: 340
-        y: 447
-        width: 23
-        height: 35
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2222,10 +2222,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_76
       rect:
         serializedVersion: 2
-        x: 404
-        y: 447
-        width: 23
-        height: 35
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2244,10 +2244,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_77
       rect:
         serializedVersion: 2
-        x: 468
-        y: 447
-        width: 23
-        height: 34
+        x: 448
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2266,10 +2266,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_78
       rect:
         serializedVersion: 2
-        x: 532
-        y: 447
-        width: 23
-        height: 33
+        x: 512
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2288,10 +2288,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_79
       rect:
         serializedVersion: 2
-        x: 596
-        y: 447
-        width: 23
-        height: 35
+        x: 576
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2310,10 +2310,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_80
       rect:
         serializedVersion: 2
-        x: 16
-        y: 383
-        width: 33
-        height: 36
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2332,10 +2332,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_81
       rect:
         serializedVersion: 2
-        x: 80
-        y: 383
-        width: 33
-        height: 36
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2354,10 +2354,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_82
       rect:
         serializedVersion: 2
-        x: 144
-        y: 383
-        width: 33
-        height: 35
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2376,10 +2376,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_83
       rect:
         serializedVersion: 2
-        x: 208
-        y: 383
-        width: 33
-        height: 35
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2398,10 +2398,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_84
       rect:
         serializedVersion: 2
-        x: 272
-        y: 383
-        width: 33
-        height: 36
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2420,10 +2420,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_85
       rect:
         serializedVersion: 2
-        x: 335
-        y: 383
-        width: 36
-        height: 48
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2442,10 +2442,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_86
       rect:
         serializedVersion: 2
-        x: 399
-        y: 383
-        width: 36
-        height: 48
+        x: 384
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2464,10 +2464,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_87
       rect:
         serializedVersion: 2
-        x: 463
-        y: 383
-        width: 36
-        height: 47
+        x: 448
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2486,10 +2486,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_88
       rect:
         serializedVersion: 2
-        x: 527
-        y: 383
-        width: 36
-        height: 47
+        x: 512
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2508,10 +2508,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_89
       rect:
         serializedVersion: 2
-        x: 591
-        y: 383
-        width: 36
-        height: 48
+        x: 576
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2530,10 +2530,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_90
       rect:
         serializedVersion: 2
-        x: 15
-        y: 319
-        width: 31
-        height: 44
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2552,10 +2552,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_91
       rect:
         serializedVersion: 2
-        x: 79
-        y: 319
-        width: 31
-        height: 44
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2574,10 +2574,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_92
       rect:
         serializedVersion: 2
-        x: 143
-        y: 319
-        width: 31
-        height: 43
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2596,10 +2596,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_93
       rect:
         serializedVersion: 2
-        x: 207
-        y: 319
-        width: 31
-        height: 43
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2618,10 +2618,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_94
       rect:
         serializedVersion: 2
-        x: 271
-        y: 319
-        width: 31
-        height: 44
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2640,10 +2640,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_95
       rect:
         serializedVersion: 2
-        x: 334
-        y: 319
-        width: 32
-        height: 31
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2662,10 +2662,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_96
       rect:
         serializedVersion: 2
-        x: 398
-        y: 319
-        width: 32
-        height: 31
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2684,10 +2684,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_97
       rect:
         serializedVersion: 2
-        x: 462
-        y: 319
-        width: 32
-        height: 30
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2706,10 +2706,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_98
       rect:
         serializedVersion: 2
-        x: 526
-        y: 319
-        width: 32
-        height: 30
+        x: 512
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2728,10 +2728,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_99
       rect:
         serializedVersion: 2
-        x: 590
-        y: 319
-        width: 32
-        height: 31
+        x: 576
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2750,10 +2750,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_100
       rect:
         serializedVersion: 2
-        x: 19
-        y: 255
-        width: 28
-        height: 37
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2772,10 +2772,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_101
       rect:
         serializedVersion: 2
-        x: 83
-        y: 255
-        width: 28
-        height: 37
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2794,10 +2794,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_102
       rect:
         serializedVersion: 2
-        x: 147
-        y: 255
-        width: 28
-        height: 37
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2816,10 +2816,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_103
       rect:
         serializedVersion: 2
-        x: 211
-        y: 255
-        width: 28
-        height: 37
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2838,10 +2838,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_104
       rect:
         serializedVersion: 2
-        x: 275
-        y: 255
-        width: 28
-        height: 37
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2860,10 +2860,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_105
       rect:
         serializedVersion: 2
-        x: 333
-        y: 255
-        width: 33
-        height: 49
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2882,10 +2882,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_106
       rect:
         serializedVersion: 2
-        x: 397
-        y: 255
-        width: 33
-        height: 49
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2904,10 +2904,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_107
       rect:
         serializedVersion: 2
-        x: 461
-        y: 255
-        width: 33
-        height: 48
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2926,10 +2926,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_108
       rect:
         serializedVersion: 2
-        x: 525
-        y: 255
-        width: 33
-        height: 48
+        x: 512
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2948,10 +2948,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_109
       rect:
         serializedVersion: 2
-        x: 589
-        y: 255
-        width: 33
-        height: 49
+        x: 576
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2970,10 +2970,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_110
       rect:
         serializedVersion: 2
-        x: 13
-        y: 191
-        width: 31
-        height: 47
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2992,10 +2992,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_111
       rect:
         serializedVersion: 2
-        x: 77
-        y: 191
-        width: 31
-        height: 47
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3014,10 +3014,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_112
       rect:
         serializedVersion: 2
-        x: 141
-        y: 191
-        width: 31
-        height: 46
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3036,10 +3036,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_113
       rect:
         serializedVersion: 2
-        x: 205
-        y: 191
-        width: 31
-        height: 46
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3058,10 +3058,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_114
       rect:
         serializedVersion: 2
-        x: 269
-        y: 191
-        width: 31
-        height: 47
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3080,10 +3080,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_115
       rect:
         serializedVersion: 2
-        x: 341
-        y: 191
-        width: 22
-        height: 49
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3102,10 +3102,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_116
       rect:
         serializedVersion: 2
-        x: 405
-        y: 191
-        width: 22
-        height: 49
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3124,10 +3124,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_117
       rect:
         serializedVersion: 2
-        x: 469
-        y: 191
-        width: 22
-        height: 50
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3146,10 +3146,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_118
       rect:
         serializedVersion: 2
-        x: 533
-        y: 191
-        width: 22
-        height: 50
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3168,10 +3168,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_119
       rect:
         serializedVersion: 2
-        x: 597
-        y: 191
-        width: 22
-        height: 49
+        x: 576
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3190,10 +3190,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_120
       rect:
         serializedVersion: 2
-        x: 16
-        y: 127
-        width: 26
-        height: 45
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3212,10 +3212,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_121
       rect:
         serializedVersion: 2
-        x: 80
-        y: 127
-        width: 26
-        height: 45
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3234,10 +3234,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_122
       rect:
         serializedVersion: 2
-        x: 144
-        y: 127
-        width: 26
-        height: 44
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3256,10 +3256,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_123
       rect:
         serializedVersion: 2
-        x: 208
-        y: 127
-        width: 26
-        height: 44
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3278,10 +3278,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_124
       rect:
         serializedVersion: 2
-        x: 272
-        y: 127
-        width: 26
-        height: 45
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3300,10 +3300,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_125
       rect:
         serializedVersion: 2
-        x: 340
-        y: 127
-        width: 25
-        height: 48
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3322,10 +3322,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_126
       rect:
         serializedVersion: 2
-        x: 403
-        y: 127
-        width: 26
-        height: 48
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3344,10 +3344,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_127
       rect:
         serializedVersion: 2
-        x: 468
-        y: 127
-        width: 25
-        height: 47
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3366,10 +3366,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_128
       rect:
         serializedVersion: 2
-        x: 532
-        y: 127
-        width: 25
-        height: 47
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3388,10 +3388,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_129
       rect:
         serializedVersion: 2
-        x: 596
-        y: 127
-        width: 25
-        height: 48
+        x: 576
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3410,10 +3410,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_130
       rect:
         serializedVersion: 2
-        x: 17
-        y: 63
-        width: 26
-        height: 50
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3432,10 +3432,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_131
       rect:
         serializedVersion: 2
-        x: 81
-        y: 63
-        width: 26
-        height: 50
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3454,10 +3454,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_132
       rect:
         serializedVersion: 2
-        x: 145
-        y: 63
-        width: 26
-        height: 49
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3476,10 +3476,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_133
       rect:
         serializedVersion: 2
-        x: 209
-        y: 63
-        width: 26
-        height: 49
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3498,10 +3498,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_134
       rect:
         serializedVersion: 2
-        x: 273
-        y: 63
-        width: 26
-        height: 50
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3520,10 +3520,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_135
       rect:
         serializedVersion: 2
-        x: 334
-        y: 63
-        width: 39
-        height: 50
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3542,10 +3542,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_136
       rect:
         serializedVersion: 2
-        x: 399
-        y: 63
-        width: 38
-        height: 50
+        x: 384
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3564,10 +3564,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_137
       rect:
         serializedVersion: 2
-        x: 462
-        y: 63
-        width: 39
-        height: 51
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3586,10 +3586,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_138
       rect:
         serializedVersion: 2
-        x: 525
-        y: 63
-        width: 40
-        height: 51
+        x: 512
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3608,10 +3608,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_139
       rect:
         serializedVersion: 2
-        x: 590
-        y: 63
-        width: 39
-        height: 50
+        x: 576
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3630,10 +3630,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_140
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 0
-        width: 50
-        height: 32
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3652,10 +3652,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_141
       rect:
         serializedVersion: 2
-        x: 69
+        x: 64
         y: 0
-        width: 50
-        height: 32
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3674,10 +3674,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_142
       rect:
         serializedVersion: 2
-        x: 132
+        x: 128
         y: 0
-        width: 51
-        height: 31
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3696,10 +3696,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_143
       rect:
         serializedVersion: 2
-        x: 197
+        x: 192
         y: 0
-        width: 50
-        height: 31
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3718,10 +3718,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_144
       rect:
         serializedVersion: 2
-        x: 261
+        x: 256
         y: 0
-        width: 50
-        height: 32
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3740,10 +3740,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_145
       rect:
         serializedVersion: 2
-        x: 337
+        x: 320
         y: 0
-        width: 30
-        height: 45
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3762,10 +3762,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_146
       rect:
         serializedVersion: 2
-        x: 401
+        x: 384
         y: 0
-        width: 30
-        height: 45
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3784,10 +3784,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_147
       rect:
         serializedVersion: 2
-        x: 465
+        x: 448
         y: 0
-        width: 30
-        height: 46
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3806,10 +3806,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_148
       rect:
         serializedVersion: 2
-        x: 529
+        x: 512
         y: 0
-        width: 30
-        height: 46
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3828,10 +3828,10 @@ TextureImporter:
       name: GandalfHardcore characters sheet1_149
       rect:
         serializedVersion: 2
-        x: 593
+        x: 576
         y: 0
-        width: 30
-        height: 45
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3850,7 +3850,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4ee48cd6a090328429c1211acde82dea
     internalID: 0
     vertices: []
     indices: 

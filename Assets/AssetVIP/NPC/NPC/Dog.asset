@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 081bfb535df76494e98b5d18627a1fae, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  npcName: Shiba
+  npcPortrait: {fileID: 7309661263205720492, guid: 86493e9ce30cb7b45b033577c45be046, type: 3}
+  dialogueLines:
+  - "G\xE2u G\xE2u G\xE2u !!!"
+  autoProgressLines: 01
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: c531cfb40a6e6494d920a12a3e48e238, type: 3}
+  voicePitch: 1

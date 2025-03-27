@@ -11,6 +11,12 @@ public class PlayerController : Singleton<PlayerController>
     [SerializeField] private TrailRenderer myTraiRenderer;
     [SerializeField] private Transform weaponCollider;
     [SerializeField] private AudioClip dashSound;
+
+    [SerializeField] private float interactRange = 2f;
+    [SerializeField] private LayerMask interactableLayer;
+
+
+
     private AudioSource audioSource;
 
 
@@ -66,7 +72,13 @@ public class PlayerController : Singleton<PlayerController>
     private void Update()
     {
         PlayerInput();
+
+        if (playerControls.Interact.Interact.WasPressedThisFrame())
+        {
+            TryInteract();
+        }
     }
+
 
     private void FixedUpdate()
     {
@@ -133,6 +145,20 @@ public class PlayerController : Singleton<PlayerController>
         myTraiRenderer.emitting = false;
         yield return new WaitForSeconds(dashCD);
         isDashing = false;
+    }
+
+
+    private void TryInteract()
+    {
+        Collider2D hit = Physics2D.OverlapCircle(transform.position, interactRange, interactableLayer);
+        if (hit != null)
+        {
+            IInteractable interactable = hit.GetComponent<IInteractable>();
+            if (interactable != null)
+            {
+                interactable.Interact();
+            }
+        }
     }
 
 }

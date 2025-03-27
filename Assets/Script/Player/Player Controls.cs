@@ -225,6 +225,34 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""isPartOfComposite"": false
                 }
             ]
+        },
+        {
+            ""name"": ""Interact"",
+            ""id"": ""7bcfa014-59a6-4d68-abd1-0f12759589d3"",
+            ""actions"": [
+                {
+                    ""name"": ""Interact"",
+                    ""type"": ""Button"",
+                    ""id"": ""687c853d-e9cf-41d4-bc72-8ea961e6bccb"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""8d6373bd-3b9e-4f2c-961e-a246689b9f05"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
         }
     ],
     ""controlSchemes"": []
@@ -239,6 +267,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         // Inventory
         m_Inventory = asset.FindActionMap("Inventory", throwIfNotFound: true);
         m_Inventory_Keyboard = m_Inventory.FindAction("Keyboard", throwIfNotFound: true);
+        // Interact
+        m_Interact = asset.FindActionMap("Interact", throwIfNotFound: true);
+        m_Interact_Interact = m_Interact.FindAction("Interact", throwIfNotFound: true);
     }
 
     //~@PlayerControls()
@@ -246,6 +277,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     //    UnityEngine.Debug.Assert(!m_Movement.enabled, "This will cause a leak and performance issues, PlayerControls.Movement.Disable() has not been called.");
     //    UnityEngine.Debug.Assert(!m_Combat.enabled, "This will cause a leak and performance issues, PlayerControls.Combat.Disable() has not been called.");
     //    UnityEngine.Debug.Assert(!m_Inventory.enabled, "This will cause a leak and performance issues, PlayerControls.Inventory.Disable() has not been called.");
+    //    UnityEngine.Debug.Assert(!m_Interact.enabled, "This will cause a leak and performance issues, PlayerControls.Interact.Disable() has not been called.");
     //}
 
     public void Dispose()
@@ -449,6 +481,52 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         }
     }
     public InventoryActions @Inventory => new InventoryActions(this);
+
+    // Interact
+    private readonly InputActionMap m_Interact;
+    private List<IInteractActions> m_InteractActionsCallbackInterfaces = new List<IInteractActions>();
+    private readonly InputAction m_Interact_Interact;
+    public struct InteractActions
+    {
+        private @PlayerControls m_Wrapper;
+        public InteractActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
+        public InputAction @Interact => m_Wrapper.m_Interact_Interact;
+        public InputActionMap Get() { return m_Wrapper.m_Interact; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(InteractActions set) { return set.Get(); }
+        public void AddCallbacks(IInteractActions instance)
+        {
+            if (instance == null || m_Wrapper.m_InteractActionsCallbackInterfaces.Contains(instance)) return;
+            m_Wrapper.m_InteractActionsCallbackInterfaces.Add(instance);
+            @Interact.started += instance.OnInteract;
+            @Interact.performed += instance.OnInteract;
+            @Interact.canceled += instance.OnInteract;
+        }
+
+        private void UnregisterCallbacks(IInteractActions instance)
+        {
+            @Interact.started -= instance.OnInteract;
+            @Interact.performed -= instance.OnInteract;
+            @Interact.canceled -= instance.OnInteract;
+        }
+
+        public void RemoveCallbacks(IInteractActions instance)
+        {
+            if (m_Wrapper.m_InteractActionsCallbackInterfaces.Remove(instance))
+                UnregisterCallbacks(instance);
+        }
+
+        public void SetCallbacks(IInteractActions instance)
+        {
+            foreach (var item in m_Wrapper.m_InteractActionsCallbackInterfaces)
+                UnregisterCallbacks(item);
+            m_Wrapper.m_InteractActionsCallbackInterfaces.Clear();
+            AddCallbacks(instance);
+        }
+    }
+    public InteractActions @Interact => new InteractActions(this);
     public interface IMovementActions
     {
         void OnMove(InputAction.CallbackContext context);
@@ -461,5 +539,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     public interface IInventoryActions
     {
         void OnKeyboard(InputAction.CallbackContext context);
+    }
+    public interface IInteractActions
+    {
+        void OnInteract(InputAction.CallbackContext context);
     }
 }

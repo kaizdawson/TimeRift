@@ -418,8 +418,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Ch\u01A1i"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a1dba853c61eb834296aa7a16786cdca, type: 2}
-  m_sharedMaterial: {fileID: 6780404067476171405, guid: a1dba853c61eb834296aa7a16786cdca, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1265cdf7c16f9094cb5b65b821bac05d, type: 2}
+  m_sharedMaterial: {fileID: -3493710822603156629, guid: 1265cdf7c16f9094cb5b65b821bac05d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -554,8 +554,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Tho\xE1t "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a1dba853c61eb834296aa7a16786cdca, type: 2}
-  m_sharedMaterial: {fileID: 6780404067476171405, guid: a1dba853c61eb834296aa7a16786cdca, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1265cdf7c16f9094cb5b65b821bac05d, type: 2}
+  m_sharedMaterial: {fileID: -3493710822603156629, guid: 1265cdf7c16f9094cb5b65b821bac05d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
